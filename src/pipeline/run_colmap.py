@@ -1,44 +1,49 @@
 import subprocess
-import os
 from pathlib import Path
 from src.config import COLMAP_PATH
+from src.utils.logging_utils import get_logger
 
-def run_colmap(image_path,output_path):
+logger = get_logger(__name__)
 
-    image_path = Path(image_path)
-    output_path = Path(output_path)
 
-    output_path.mkdir(parents=True, exist_ok=True)
+def run_colmap(image_dir: Path, workspace_dir: Path) -> Path:
+    database = workspace_dir / "database.db"
+    sparse_dir = workspace_dir / "sparse"
+    sparse_dir.mkdir(parents=True, exist_ok=True)
 
-    database_path = output_path / "database.db"
-    sparse_path = output_path / "sparse"
+    _run(["feature_extractor",
+          "--database_path", str(database),
+          "--image_path", str(image_dir),
+          "--ImageReader.single_camera", "1",
+          "--SiftExtraction.max_num_features", "8192"])
 
-    sparse_path.mkdir(exist_ok=True)
+    _run(["exhaustive_matcher",
+          "--database_path", str(database),
+          "--SiftMatching.min_num_inliers", "15"])
 
-    print("Starting COLMAP pipeline...")
-    print("Running feature extraction...")
+    _run(["mapper",
+          "--database_path", str(database),
+          "--image_path", str(image_dir),
+          "--output_path", str(sparse_dir),
+          "--Mapper.init_min_num_inliers", "15",
+          "--Mapper.abs_pose_min_num_inliers", "15",
+          "--Mapper.min_num_matches", "10"])
 
-    subprocess.run([
-        COLMAP_PATH,
-        "feature_extractor",
-        "--database_path", str(database_path),
-        "--image_path", str(image_path)
-    ],check=True)
+    _run(["model_converter",
+          "--input_path", str(sparse_dir / "0"),
+          "--output_path", str(sparse_dir / "0"),
+          "--output_type", "TXT"])
 
-    print("Running feature matching...")
-    subprocess.run([
-        COLMAP_PATH,
-        "exhaustive_matcher",
-        "--database_path", str(database_path)
-    ],check=True)
+    logger.info(f"COLMAP reconstruction done → {sparse_dir}")
+    return sparse_dir
 
-    print("Running sparse reconstruction...")
-    subprocess.run([
-        COLMAP_PATH,
-        "mapper",
-        "--database_path", str(database_path),
-        "--image_path", str(image_path),
-        "--output_path", str(sparse_path),
-    ],check=True)
 
-    print("COLMAP sparse reconstruction complete.")
+def _run(args: list[str]) -> None:
+    cmd = [COLMAP_PATH] + args
+    logger.info(f"Running: {' '.join(cmd)}")
+    try:
+        subprocess.run(cmd, check=True)
+    except FileNotFoundError:
+        raise RuntimeError(f"COLMAP not found at '{COLMAP_PATH}'. Install with: brew install colmap")
+    except subprocess.CalledProcessError as e:
+        raise RuntimeError(f"COLMAP step failed: {e}")

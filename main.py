@@ -1,13 +1,21 @@
+import argparse
 from pathlib import Path
-from src.pipeline.video_to_frames import extract_frames
-from src.pipeline.run_colmap import run_colmap
+from src.pipeline.full_pipeline import run_full_pipeline
+from src.viewer.viewer import visualize
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Phone-to-3D: reconstruct a 3D point cloud from a video.")
+    parser.add_argument("video", help="Path to input video file")
+    parser.add_argument("--name", default="output", help="Name for this reconstruction run (default: output)")
+    parser.add_argument("--view", action="store_true", help="Open 3D viewer after reconstruction")
+    args = parser.parse_args()
+
+    ply_path = run_full_pipeline(args.video, args.name)
+
+    if args.view:
+        visualize(ply_path)
 
 
 if __name__ == "__main__":
-    extract_frames("data/input_video/test.mp4",               
-    Path("data/frames/test"))
-
-    frames_path = "data/frames/test"
-    colmap_output = "data/colmap/test"
-
-    run_colmap(frames_path,colmap_output)
+    main()
