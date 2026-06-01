@@ -1,0 +1,25 @@
+18:00:28 [App     ] OpenMVS x64 v2.4.0
+18:00:28 [App     ] Build date: Jan 20 2026, 00:13:37
+18:00:28 [App     ] CPU: 12th Gen Intel(R) Core(TM) i7-1255U (12 cores)
+18:00:28 [App     ] RAM: 15.70GB Physical Memory 128.00TB Virtual Memory
+18:00:28 [App     ] OS: Windows 11+ x64
+18:00:28 [App     ] Disk: 217.17GB (475.71GB) space
+18:00:28 [App     ] SSE & AVX compatible CPU & OS detected
+18:00:28 [App     ] Command line: InterfaceCOLMAP -i data\colmap\gerard_hall\dense -o data\openmvs\scene.mvs
+18:00:28 [App     ] Reading cameras: data/colmap/gerard_hall/dense/sparse/cameras.bin
+18:00:28 [App     ] Reading images: data/colmap/gerard_hall/dense/sparse/images.bin
+18:00:28 [App     ] Reading points: data/colmap/gerard_hall/dense/sparse/points3D.bin
+18:00:28 [App     ] Reading patch-match configuration: data/colmap/gerard_hall/dense/stereo/patch-match.cfg
+18:00:28 [App     ] Reading depth-maps/normal-maps: data/colmap/gerard_hall/dense/stereo/depth_maps/ and data/colmap/gerard_hall/dense/stereo/normal_maps/
+18:00:28 [App     ] Exported data: 100 images, 58337 points (423ms)
+18:00:28 [App     ] MEMORYINFO: {
+18:00:28 [App     ] 	PageFaultCount 8211
+18:00:28 [App     ] 	PeakWorkingSetSize 28.73MB
+18:00:28 [App     ] 	WorkingSetSize 11.09MB
+18:00:28 [App     ] 	QuotaPeakPagedPoolUsage 76.96KB
+18:00:28 [App     ] 	QuotaPagedPoolUsage 76.83KB
+18:00:28 [App     ] 	QuotaPeakNonPagedPoolUsage 14.22KB
+18:00:28 [App     ] 	QuotaNonPagedPoolUsage 13.82KB
+18:00:28 [App     ] 	PagefileUsage 7.47MB
+18:00:28 [App     ] 	PeakPagefileUsage 23.89MB
+18:00:28 [App     ] } ENDINFO
