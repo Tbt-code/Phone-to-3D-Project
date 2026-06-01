@@ -17,10 +17,15 @@ def run_colmap(image_dir: Path, workspace_dir: Path) -> Path:
           "--ImageReader.single_camera", "1",
           "--SiftExtraction.max_num_features", "8192"])
 
-    _run(["exhaustive_matcher",
-          "--database_path", str(database),
-          "--SiftMatching.min_num_inliers", "15"])
+    #_run(["exhaustive_matcher",
+    #      "--database_path", str(database),
+    #      "--SiftMatching.min_num_inliers", "15"])
 
+    _run([
+    "exhaustive_matcher",
+    "--database_path", str(database)
+    ])
+    
     _run(["mapper",
           "--database_path", str(database),
           "--image_path", str(image_dir),

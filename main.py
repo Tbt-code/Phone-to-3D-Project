@@ -1,6 +1,7 @@
 import argparse
 from pathlib import Path
 from src.pipeline.full_pipeline import run_full_pipeline
+from src.pipeline.run_colmap import run_colmap
 from src.viewer.viewer import visualize
 
 
@@ -17,5 +18,9 @@ def main():
         visualize(ply_path)
 
 
+#if __name__ == "__main__":
+#    main()
 if __name__ == "__main__":
-    main()
+    image_folder = Path("data/input_images/gerard_hall/images")
+    colmap_output = Path("data/colmap/gerard_hall")
+    run_colmap(image_folder, colmap_output)
