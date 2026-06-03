@@ -1,0 +1,29 @@
+22:21:52 [App     ] OpenMVS x64 v2.4.0
+22:21:52 [App     ] Build date: Jan 20 2026, 00:13:37
+22:21:52 [App     ] CPU: 12th Gen Intel(R) Core(TM) i7-1255U (12 cores)
+22:21:52 [App     ] RAM: 15.70GB Physical Memory 128.00TB Virtual Memory
+22:21:52 [App     ] OS: Windows 11+ x64
+22:21:52 [App     ] Disk: 188.17GB (475.71GB) space
+22:21:52 [App     ] SSE & AVX compatible CPU & OS detected
+22:21:52 [App     ] Command line: DensifyPointCloud data\openmvs\scene.mvs
+22:21:53 [Scene   ] Camera model loaded: platform 0; camera  0; f 0.654x0.654; poses 100
+22:21:53 [Scene   ] Scene loaded in interface format from 'scene.mvs' (42ms):
+	100 images (100 calibrated) with a total of 2127.58 MPixels (21.28 MPixels/image)
+	58337 points, 0 vertices, 0 faces
+22:21:53 [Scene   ] ROI estimated with position (0.236006,-0.335213,0.657294) and extent (1.037655,2.758132,3.336183): scale 1.100000, up axis -1
+22:21:53 [PointCld] Point-cloud composed of 58337 points with:
+ - points info:
+	57332 points inside ROI (98.28%)
+	 inside ROI track length: 2 min / 5.68714 mean (3.55037 std) / 28 max
+	outside ROI track length: 2 min / 3.35423 mean (1.72367 std) / 15 max
+ - visibility info (329426 views - 5.65 views/point):
+	        0 points with 1- views (0.00%)
+	     6603 points with 2  views (11.32%)
+	    14017 points with 3  views (24.03%)
+	    37717 points with 4+ views (64.65%)
+	2 min / 5.64695 mean (3.53996 std) / 28 max
+22:21:58 [ScnDense] Preparing images for dense reconstruction completed: 100 images (5s147ms)
+22:21:58 [ScnDense] Select neighbor views by weighting inside ROI points with 0.70
+22:21:58 [ScnDense] Selecting images for dense reconstruction completed: 100 images (87ms)
+22:21:58 [ScnDense] Reference image   0 paired with 5 views
+22:21:58 [ScnDense] Reference image   9 paired with 5 views

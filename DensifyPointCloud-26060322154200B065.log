@@ -1,0 +1,734 @@
+22:15:42 [App     ] OpenMVS x64 v2.4.0
+22:15:42 [App     ] Build date: Jan 20 2026, 00:13:37
+22:15:42 [App     ] CPU: 12th Gen Intel(R) Core(TM) i7-1255U (12 cores)
+22:15:42 [App     ] RAM: 15.70GB Physical Memory 128.00TB Virtual Memory
+22:15:42 [App     ] OS: Windows 11+ x64
+22:15:42 [App     ] Disk: 188.55GB (475.71GB) space
+22:15:42 [App     ] SSE & AVX compatible CPU & OS detected
+22:15:42 [App     ] Command line: DensifyPointCloud -i data\openmvs\scene.mvs -o data\openmvs\scene_dense.mvs -v 3
+22:15:42 [Scene   ] Camera model loaded: platform 0; camera  0; f 0.654x0.654; poses 100
+22:15:42 [Scene   ] Image loaded   0: IMG_2331.JPG
+22:15:42 [Scene   ] Image loaded   1: IMG_2332.JPG
+22:15:42 [Scene   ] Image loaded   2: IMG_2333.JPG
+22:15:42 [Scene   ] Image loaded   3: IMG_2334.JPG
+22:15:42 [Scene   ] Image loaded   4: IMG_2336.JPG
+22:15:42 [Scene   ] Image loaded   5: IMG_2335.JPG
+22:15:42 [Scene   ] Image loaded   6: IMG_2337.JPG
+22:15:42 [Scene   ] Image loaded   7: IMG_2339.JPG
+22:15:42 [Scene   ] Image loaded   8: IMG_2340.JPG
+22:15:42 [Scene   ] Image loaded   9: IMG_2338.JPG
+22:15:42 [Scene   ] Image loaded  10: IMG_2341.JPG
+22:15:42 [Scene   ] Image loaded  11: IMG_2342.JPG
+22:15:42 [Scene   ] Image loaded  12: IMG_2343.JPG
+22:15:42 [Scene   ] Image loaded  13: IMG_2344.JPG
+22:15:42 [Scene   ] Image loaded  14: IMG_2345.JPG
+22:15:42 [Scene   ] Image loaded  15: IMG_2346.JPG
+22:15:42 [Scene   ] Image loaded  16: IMG_2347.JPG
+22:15:42 [Scene   ] Image loaded  17: IMG_2349.JPG
+22:15:42 [Scene   ] Image loaded  18: IMG_2348.JPG
+22:15:42 [Scene   ] Image loaded  19: IMG_2350.JPG
+22:15:42 [Scene   ] Image loaded  20: IMG_2351.JPG
+22:15:42 [Scene   ] Image loaded  21: IMG_2352.JPG
+22:15:42 [Scene   ] Image loaded  22: IMG_2353.JPG
+22:15:42 [Scene   ] Image loaded  23: IMG_2354.JPG
+22:15:42 [Scene   ] Image loaded  24: IMG_2355.JPG
+22:15:42 [Scene   ] Image loaded  25: IMG_2356.JPG
+22:15:42 [Scene   ] Image loaded  26: IMG_2357.JPG
+22:15:42 [Scene   ] Image loaded  27: IMG_2358.JPG
+22:15:42 [Scene   ] Image loaded  28: IMG_2359.JPG
+22:15:42 [Scene   ] Image loaded  29: IMG_2360.JPG
+22:15:42 [Scene   ] Image loaded  30: IMG_2361.JPG
+22:15:42 [Scene   ] Image loaded  31: IMG_2362.JPG
+22:15:42 [Scene   ] Image loaded  32: IMG_2363.JPG
+22:15:42 [Scene   ] Image loaded  33: IMG_2364.JPG
+22:15:42 [Scene   ] Image loaded  34: IMG_2365.JPG
+22:15:42 [Scene   ] Image loaded  35: IMG_2366.JPG
+22:15:42 [Scene   ] Image loaded  36: IMG_2367.JPG
+22:15:42 [Scene   ] Image loaded  37: IMG_2368.JPG
+22:15:42 [Scene   ] Image loaded  38: IMG_2369.JPG
+22:15:42 [Scene   ] Image loaded  39: IMG_2370.JPG
+22:15:42 [Scene   ] Image loaded  40: IMG_2371.JPG
+22:15:42 [Scene   ] Image loaded  41: IMG_2372.JPG
+22:15:42 [Scene   ] Image loaded  42: IMG_2373.JPG
+22:15:42 [Scene   ] Image loaded  43: IMG_2374.JPG
+22:15:42 [Scene   ] Image loaded  44: IMG_2375.JPG
+22:15:42 [Scene   ] Image loaded  45: IMG_2376.JPG
+22:15:42 [Scene   ] Image loaded  46: IMG_2377.JPG
+22:15:42 [Scene   ] Image loaded  47: IMG_2378.JPG
+22:15:42 [Scene   ] Image loaded  48: IMG_2379.JPG
+22:15:42 [Scene   ] Image loaded  49: IMG_2380.JPG
+22:15:42 [Scene   ] Image loaded  50: IMG_2381.JPG
+22:15:42 [Scene   ] Image loaded  51: IMG_2382.JPG
+22:15:42 [Scene   ] Image loaded  52: IMG_2383.JPG
+22:15:42 [Scene   ] Image loaded  53: IMG_2384.JPG
+22:15:42 [Scene   ] Image loaded  54: IMG_2385.JPG
+22:15:42 [Scene   ] Image loaded  55: IMG_2386.JPG
+22:15:42 [Scene   ] Image loaded  56: IMG_2387.JPG
+22:15:42 [Scene   ] Image loaded  57: IMG_2388.JPG
+22:15:42 [Scene   ] Image loaded  58: IMG_2389.JPG
+22:15:42 [Scene   ] Image loaded  59: IMG_2390.JPG
+22:15:42 [Scene   ] Image loaded  60: IMG_2391.JPG
+22:15:42 [Scene   ] Image loaded  61: IMG_2392.JPG
+22:15:42 [Scene   ] Image loaded  62: IMG_2393.JPG
+22:15:42 [Scene   ] Image loaded  63: IMG_2394.JPG
+22:15:42 [Scene   ] Image loaded  64: IMG_2395.JPG
+22:15:42 [Scene   ] Image loaded  65: IMG_2396.JPG
+22:15:42 [Scene   ] Image loaded  66: IMG_2397.JPG
+22:15:42 [Scene   ] Image loaded  67: IMG_2398.JPG
+22:15:42 [Scene   ] Image loaded  68: IMG_2399.JPG
+22:15:42 [Scene   ] Image loaded  69: IMG_2400.JPG
+22:15:42 [Scene   ] Image loaded  70: IMG_2401.JPG
+22:15:42 [Scene   ] Image loaded  71: IMG_2402.JPG
+22:15:42 [Scene   ] Image loaded  72: IMG_2403.JPG
+22:15:42 [Scene   ] Image loaded  73: IMG_2404.JPG
+22:15:42 [Scene   ] Image loaded  74: IMG_2405.JPG
+22:15:42 [Scene   ] Image loaded  75: IMG_2406.JPG
+22:15:42 [Scene   ] Image loaded  76: IMG_2407.JPG
+22:15:42 [Scene   ] Image loaded  77: IMG_2408.JPG
+22:15:42 [Scene   ] Image loaded  78: IMG_2409.JPG
+22:15:42 [Scene   ] Image loaded  79: IMG_2410.JPG
+22:15:42 [Scene   ] Image loaded  80: IMG_2411.JPG
+22:15:42 [Scene   ] Image loaded  81: IMG_2412.JPG
+22:15:42 [Scene   ] Image loaded  82: IMG_2413.JPG
+22:15:42 [Scene   ] Image loaded  83: IMG_2414.JPG
+22:15:42 [Scene   ] Image loaded  84: IMG_2415.JPG
+22:15:42 [Scene   ] Image loaded  85: IMG_2416.JPG
+22:15:42 [Scene   ] Image loaded  86: IMG_2417.JPG
+22:15:42 [Scene   ] Image loaded  87: IMG_2418.JPG
+22:15:42 [Scene   ] Image loaded  88: IMG_2419.JPG
+22:15:42 [Scene   ] Image loaded  89: IMG_2420.JPG
+22:15:42 [Scene   ] Image loaded  90: IMG_2421.JPG
+22:15:42 [Scene   ] Image loaded  91: IMG_2422.JPG
+22:15:42 [Scene   ] Image loaded  92: IMG_2423.JPG
+22:15:42 [Scene   ] Image loaded  93: IMG_2424.JPG
+22:15:42 [Scene   ] Image loaded  94: IMG_2425.JPG
+22:15:42 [Scene   ] Image loaded  95: IMG_2426.JPG
+22:15:42 [Scene   ] Image loaded  96: IMG_2427.JPG
+22:15:42 [Scene   ] Image loaded  97: IMG_2428.JPG
+22:15:42 [Scene   ] Image loaded  98: IMG_2429.JPG
+22:15:42 [Scene   ] Image loaded  99: IMG_2430.JPG
+22:15:42 [Scene   ] Scene loaded in interface format from 'scene.mvs' (107ms):
+	100 images (100 calibrated) with a total of 2127.58 MPixels (21.28 MPixels/image)
+	58337 points, 0 vertices, 0 faces
+22:15:42 [Scene   ] scene does not seem to be a tower: X(0.04), Y(637.33), Z(770.58)
+22:15:42 [Scene   ] ROI threshold median: 0.592887, trust region size: 0.105486, threshold: 0.540144
+22:15:42 [Scene   ] ROI estimated with position (0.236006,-0.335213,0.657294) and extent (1.037655,2.758132,3.336183): scale 1.100000, up axis -1
+22:15:42 [Scene   ] scene does not seem to be a tower: X(0.04), Y(637.33), Z(770.58)
+22:15:42 [PointCld] Point-cloud composed of 58337 points with:
+ - points info:
+	57332 points inside ROI (98.28%)
+	 inside ROI track length: 2 min / 5.68714 mean (3.55037 std) / 28 max
+	outside ROI track length: 2 min / 3.35423 mean (1.72367 std) / 15 max
+ - visibility info (329426 views - 5.65 views/point):
+	        0 points with 1- views (0.00%)
+	     6603 points with 2  views (11.32%)
+	    14017 points with 3  views (24.03%)
+	    37717 points with 4+ views (64.65%)
+	2 min / 5.64695 mean (3.53996 std) / 28 max
+22:15:43 [ScnDense] K0 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K92 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K76 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K60 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K36 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K44 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K9 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K27 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K84 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K68 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K18 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K52 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K1 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K93 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K37 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K85 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K69 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:43 [ScnDense] K53 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K77 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K2 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K45 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K61 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K10 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K28 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K19 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K70 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K38 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K78 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K3 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K54 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K94 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K46 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K62 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K86 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K29 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K11 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K79 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K71 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:44 [ScnDense] K20 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K47 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K63 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K55 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K4 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K39 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K30 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K80 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K95 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K56 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K87 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K72 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K12 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K64 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:45 [ScnDense] K5 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K40 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K48 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K21 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K81 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K57 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K73 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K65 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K6 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K31 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K96 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K82 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:46 [ScnDense] K58 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K74 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K66 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K7 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K88 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K83 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K59 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K13 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K41 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K75 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K67 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K49 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K8 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K22 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K97 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K42 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K32 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K89 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K50 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K14 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:47 [ScnDense] K98 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K23 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K43 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K33 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K90 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K51 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K24 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K15 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K99 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K34 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K16 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K91 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K35 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:48 [ScnDense] K25 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:49 [ScnDense] K17 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:49 [ScnDense] K26 = 
+ 1674.0909     0.0000  1279.5000 
+    0.0000  1674.0909   831.9262 
+    0.0000     0.0000     1.0000 
+
+22:15:49 [ScnDense] Preparing images for dense reconstruction completed: 100 images (6s267ms)
+22:15:49 [ScnDense] Select neighbor views by weighting inside ROI points with 0.70
+22:15:49 [Scene   ] Reference image  86 sees 22 views:  85(2198pts,1.02scl)  87(1727pts,1.04scl)  84(1513pts,1.04scl)  81(1328pts,1.03scl)  88(1256pts,1.07scl)  83(644pts,0.99scl)  80(979pts,1.05scl)  89(1039pts,1.10scl)  90(743pts,1.19scl)  82(538pts,0.95scl)  79(763pts,1.03scl)  78(579pts,1.06scl)  91(448pts,1.20scl)  92(271pts,1.22scl)  77(276pts,1.11scl)  93(155pts,1.25scl)  76(156pts,1.20scl)  75(85pts,1.26scl)  94(51pts,1.28scl)  74(45pts,1.30scl)  95(11pts,1.35scl)  73(5pts,1.39scl) (2756 shared points)
+22:15:49 [Scene   ] Reference image  24 sees 41 views:  26(2458pts,1.01scl)  22(2134pts,1.00scl)  23(2059pts,1.01scl)  28(1047pts,0.99scl)  21(1775pts,0.91scl)  25(1821pts,0.99scl)  27(569pts,0.95scl)  20(1640pts,0.87scl)  29(420pts,0.95scl)  30(405pts,1.04scl)  19(1585pts,0.83scl)  17(1337pts,0.80scl)  18(1239pts,0.77scl)  32(317pts,0.98scl)  38(527pts,1.01scl)  16(1093pts,0.75scl)  15(916pts,0.78scl)  14(749pts,0.81scl)  31(186pts,0.96scl)  36(400pts,0.91scl)  13(580pts,0.84scl)  34(287pts,0.96scl)  37(433pts,0.90scl)  12(446pts,0.89scl)  11(317pts,0.91scl)  33(197pts,0.95scl)  39(216pts,0.95scl)  35(206pts,0.95scl)  10(242pts,0.92scl)   8(173pts,0.95scl)  40(179pts,0.93scl)  42(210pts,0.92scl)  43(174pts,0.92scl)   7(114pts,0.98scl)  44(145pts,0.93scl)  41(137pts,0.91scl)  45(107pts,0.94scl)  46(81pts,0.94scl)   9(19pts,0.99scl)  48(24pts,0.94scl)  47(15pts,0.94scl) (4256 shared points)
+22:15:49 [Scene   ] Reference image  88 sees 22 views:  87(1557pts,0.97scl)  89(1617pts,1.04scl)  90(1107pts,1.12scl)  86(1247pts,0.94scl)  91(718pts,1.15scl)  85(1041pts,0.98scl)  84(865pts,1.04scl)  81(653pts,1.05scl)  92(396pts,1.18scl)  80(404pts,1.09scl)  93(220pts,1.21scl)  79(277pts,1.00scl)  78(204pts,1.01scl)  77(130pts,0.97scl)  94(79pts,1.26scl)  83(85pts,0.73scl)  76(90pts,1.04scl)  82(77pts,0.70scl)  75(47pts,1.13scl)  95(18pts,1.28scl)  74(20pts,1.15scl)  73(3pts,1.19scl) (2114 shared points)
+22:15:49 [Scene   ] Reference image   0 sees 28 views:   2(1065pts,1.01scl)   1(1398pts,0.99scl)   3(700pts,1.03scl)   5(479pts,1.04scl)  99(888pts,0.91scl)   8(829pts,0.94scl)   7(858pts,0.95scl)  10(748pts,0.92scl)  11(651pts,0.91scl)   9(669pts,0.94scl)  12(582pts,0.88scl)  98(559pts,0.92scl)   4(374pts,0.96scl)  13(491pts,0.84scl)   6(557pts,0.94scl)  14(413pts,0.80scl)  15(266pts,0.78scl)  97(151pts,0.95scl)  95(187pts,0.89scl)  96(163pts,0.84scl)  94(148pts,0.88scl)  16(101pts,0.72scl)  93(94pts,0.86scl)  92(36pts,0.80scl)  18(22pts,0.72scl)  91(10pts,0.68scl)  90(5pts,0.69scl)  17(3pts,0.75scl) (1863 shared points)
+22:15:49 [Scene   ] Reference image  23 sees 43 views:  22(2020pts,1.04scl)  21(1521pts,0.99scl)  24(2055pts,0.99scl)  26(1373pts,1.00scl)  25(1405pts,0.96scl)  20(1203pts,0.95scl)  28(627pts,0.97scl)  27(471pts,0.89scl)  19(1112pts,0.91scl)  29(329pts,0.89scl)  17(962pts,0.88scl)  18(861pts,0.86scl)  30(270pts,1.02scl)  16(687pts,0.84scl)  38(472pts,0.90scl)  15(542pts,0.87scl)  37(426pts,0.81scl)  14(382pts,0.91scl)  33(270pts,0.86scl)  13(283pts,0.96scl)  31(179pts,0.89scl)  36(249pts,0.89scl)  35(285pts,0.84scl)  39(247pts,0.80scl)  12(177pts,1.02scl)  32(163pts,1.02scl)  34(166pts,0.98scl)  40(206pts,0.77scl)  44(181pts,0.78scl)  42(210pts,0.77scl)  11(113pts,1.04scl)  43(194pts,0.76scl)  45(148pts,0.77scl)  41(187pts,0.73scl)  10(95pts,1.06scl)  46(113pts,0.75scl)   8(60pts,1.10scl)   7(45pts,1.11scl)  48(58pts,0.71scl)  47(58pts,0.70scl)   9(9pts,1.12scl)  49(15pts,0.63scl)  50(7pts,0.60scl) (3263 shared points)
+22:15:49 [Scene   ] Reference image  63 sees 29 views:  65(3857pts,0.95scl)  62(3694pts,0.97scl)  64(4598pts,0.98scl)  60(2770pts,0.93scl)  66(2325pts,1.00scl)  61(2272pts,0.98scl)  59(3066pts,0.94scl)  67(1789pts,1.03scl)  58(3004pts,0.91scl)  57(3080pts,0.95scl)  56(2264pts,1.03scl)  54(2179pts,0.92scl)  53(1835pts,0.96scl)  68(1152pts,1.01scl)  52(1445pts,1.03scl)  51(1120pts,1.07scl)  50(881pts,1.09scl)  48(855pts,1.16scl)  55(1501pts,0.82scl)  49(705pts,1.11scl)  69(522pts,0.97scl)  46(358pts,1.11scl)  47(351pts,1.06scl)  45(212pts,1.05scl)  70(187pts,0.96scl)  44(120pts,1.01scl)  71(50pts,0.99scl)  43(41pts,0.98scl)  42(12pts,0.98scl) (5753 shared points)
+22:15:49 [Scene   ] Reference image  10 sees 44 views:  13(3087pts,0.91scl)  12(3641pts,0.96scl)   7(3613pts,1.04scl)  14(2562pts,0.87scl)   9(1496pts,1.06scl)  11(4103pts,0.99scl)   8(4162pts,1.03scl)  15(1784pts,0.84scl)   6(934pts,1.09scl)  16(1104pts,0.78scl)   4(595pts,1.08scl)   0(746pts,1.09scl)  18(633pts,0.79scl)   1(639pts,1.04scl)  99(512pts,1.04scl)   5(300pts,1.03scl)   2(439pts,1.02scl)   3(338pts,1.02scl)  17(497pts,0.82scl)  98(310pts,1.02scl)  19(378pts,0.84scl)  20(325pts,0.89scl)  21(307pts,0.94scl)  22(286pts,1.01scl)  24(244pts,1.09scl)  26(199pts,1.15scl)  97(92pts,1.10scl)  28(96pts,1.15scl)  23(97pts,0.94scl)  95(57pts,0.95scl)  94(41pts,0.97scl)  30(32pts,1.23scl)  96(36pts,0.87scl)  25(36pts,0.90scl)  38(21pts,1.38scl)  32(17pts,1.31scl)  93(21pts,0.93scl)  34(13pts,1.47scl)  36(7pts,1.58scl)  92(6pts,0.88scl)  29(8pts,0.77scl)  27(7pts,0.77scl)  39(4pts,1.22scl)  40(3pts,1.27scl) (5331 shared points)
+22:15:49 [Scene   ] Reference image  64 sees 29 views:  65(4347pts,0.97scl)  62(3262pts,0.97scl)  63(4614pts,1.02scl)  66(2556pts,1.02scl)  67(1985pts,1.06scl)  60(2470pts,0.94scl)  61(2062pts,1.00scl)  59(2778pts,0.96scl)  68(1281pts,1.04scl)  57(2726pts,0.97scl)  58(2641pts,0.92scl)  56(2086pts,1.06scl)  54(1930pts,0.94scl)  53(1686pts,0.98scl)  52(1327pts,1.05scl)  51(1042pts,1.08scl)  50(820pts,1.11scl)  48(788pts,1.18scl)  55(1276pts,0.81scl)  49(649pts,1.13scl)  69(571pts,1.01scl)  46(320pts,1.12scl)  47(312pts,1.08scl)  70(226pts,1.02scl)  45(177pts,1.05scl)  44(102pts,1.01scl)  71(66pts,1.04scl)  43(36pts,0.98scl)  42(9pts,1.00scl) (5597 shared points)
+22:15:49 [Scene   ] Reference image  70 sees 34 views:  69(1371pts,0.98scl)  71(1112pts,1.02scl)  68(830pts,0.96scl)  72(596pts,1.00scl)  67(493pts,0.98scl)  66(360pts,0.95scl)  73(353pts,0.93scl)  65(245pts,0.92scl)  64(229pts,0.99scl)  74(320pts,0.91scl)  63(190pts,1.05scl)  61(104pts,1.19scl)  59(93pts,1.09scl)  56(87pts,1.35scl)  75(139pts,0.84scl)  57(65pts,1.03scl)  54(57pts,1.10scl)  53(51pts,1.26scl)  76(105pts,0.80scl)  52(38pts,1.36scl)  77(70pts,0.79scl)  62(45pts,0.88scl)  60(39pts,0.90scl)  51(30pts,1.39scl)  58(36pts,0.87scl)  50(22pts,1.44scl)  48(18pts,1.34scl)  49(14pts,1.34scl)  83(13pts,0.99scl)  47(7pts,1.16scl)  46(6pts,1.27scl)  55(8pts,0.71scl)  45(5pts,1.32scl)  82(3pts,0.80scl) (1723 shared points)
+22:15:49 [Scene   ] Reference image  20 sees 43 views:  22(2655pts,1.10scl)  21(3409pts,1.04scl)  19(3435pts,0.95scl)  17(2683pts,0.92scl)  18(2430pts,0.90scl)  23(1210pts,1.06scl)  24(1630pts,1.16scl)  16(2052pts,0.88scl)  15(1617pts,0.92scl)  26(1307pts,1.19scl)  14(1192pts,0.96scl)  13(877pts,1.01scl)  12(607pts,1.07scl)  25(612pts,1.00scl)  28(517pts,1.16scl)  11(433pts,1.10scl)  10(322pts,1.12scl)   8(223pts,1.16scl)  30(267pts,1.16scl)  27(270pts,0.89scl)   7(149pts,1.18scl)  32(194pts,1.16scl)  29(259pts,0.89scl)  34(119pts,1.18scl)  38(92pts,1.23scl)  36(78pts,1.13scl)  33(116pts,0.86scl)  31(126pts,0.85scl)  35(89pts,0.86scl)  37(60pts,0.80scl)  39(43pts,0.96scl)   9(26pts,1.22scl)  41(28pts,0.85scl)  40(30pts,0.95scl)  42(32pts,0.74scl)  43(22pts,0.69scl)  44(20pts,0.65scl)  45(17pts,0.63scl)  46(13pts,0.59scl)  48(10pts,0.58scl)  47(11pts,0.54scl)  49(8pts,0.55scl)   6(3pts,1.27scl) (4445 shared points)
+22:15:49 [Scene   ] Reference image  59 sees 29 views:  57(4024pts,1.05scl)  62(3107pts,1.07scl)  58(3993pts,1.03scl)  60(2859pts,1.04scl)  61(2594pts,0.99scl)  56(3122pts,1.07scl)  63(3076pts,1.08scl)  55(2347pts,0.99scl)  54(2914pts,1.02scl)  64(2782pts,1.06scl)  65(2375pts,1.03scl)  53(2168pts,1.09scl)  52(1490pts,1.20scl)  66(1406pts,1.07scl)  51(1082pts,1.26scl)  67(1040pts,1.11scl)  50(777pts,1.32scl)  48(788pts,1.39scl)  49(571pts,1.37scl)  68(619pts,1.07scl)  46(283pts,1.42scl)  47(229pts,1.39scl)  69(290pts,1.01scl)  45(146pts,1.40scl)  70(93pts,0.96scl)  44(65pts,1.41scl)  71(25pts,0.97scl)  43(20pts,1.40scl)  42(4pts,1.44scl) (5709 shared points)
+22:15:49 [Scene   ] Reference image  82 sees 22 views:  83(1536pts,1.06scl)  80(1469pts,1.00scl)  79(1326pts,1.02scl)  84(982pts,0.99scl)  85(905pts,1.02scl)  78(1013pts,1.09scl)  81(1483pts,0.98scl)  86(538pts,1.06scl)  77(551pts,1.16scl)  76(287pts,1.17scl)  87(206pts,1.19scl)  75(179pts,1.12scl)  74(140pts,1.08scl)  88(76pts,1.43scl)  90(45pts,1.63scl)  89(32pts,1.54scl)  73(38pts,1.13scl)  72(23pts,1.14scl)  71(6pts,1.20scl)  91(6pts,1.76scl)  92(4pts,1.77scl)  70(3pts,1.26scl) (2217 shared points)
+22:15:49 [Scene   ] Reference image  76 sees 25 views:  75(941pts,1.05scl)  77(1048pts,0.96scl)  74(447pts,1.10scl)  78(485pts,0.90scl)  79(394pts,0.85scl)  80(312pts,0.82scl)  82(287pts,0.88scl)  83(272pts,0.92scl)  73(124pts,1.15scl)  81(279pts,0.79scl)  72(155pts,1.23scl)  85(185pts,0.82scl)  71(132pts,1.25scl)  86(157pts,0.84scl)  84(193pts,0.78scl)  87(133pts,0.92scl)  70(105pts,1.25scl)  88(90pts,0.97scl)  90(68pts,1.11scl)  89(66pts,1.01scl)  69(50pts,1.26scl)  91(21pts,1.11scl)  92(14pts,1.14scl)  68(12pts,1.22scl)  93(4pts,1.13scl) (1446 shared points)
+22:15:49 [Scene   ] Reference image  73 sees 21 views:  74(466pts,0.98scl)  72(418pts,1.08scl)  71(421pts,1.09scl)  75(167pts,0.90scl)  70(352pts,1.08scl)  69(229pts,1.07scl)  76(124pts,0.87scl)  68(92pts,1.03scl)  77(102pts,0.84scl)  83(36pts,0.98scl)  82(38pts,0.89scl)  67(16pts,1.06scl)  78(13pts,0.72scl)  79(11pts,0.68scl)  80(11pts,0.67scl)  87(5pts,0.80scl)  81(5pts,0.64scl)  86(5pts,0.72scl)  85(5pts,0.70scl)  88(3pts,0.84scl)  84(4pts,0.62scl) (673 shared points)
+22:15:49 [Scene   ] Reference image  34 sees 43 views:  32(1117pts,1.00scl)  36(942pts,0.97scl)  38(519pts,1.07scl)  28(508pts,1.03scl)  30(385pts,0.94scl)  33(577pts,1.06scl)  37(539pts,1.02scl)  31(271pts,1.06scl)  29(303pts,1.07scl)  39(310pts,1.07scl)  35(738pts,1.05scl)  40(300pts,1.07scl)  27(221pts,1.04scl)  41(268pts,1.08scl)  26(204pts,0.94scl)  42(309pts,1.08scl)  24(286pts,1.09scl)  43(255pts,1.08scl)  25(185pts,1.09scl)  44(208pts,1.10scl)  22(199pts,1.07scl)  45(172pts,1.10scl)  23(164pts,1.07scl)  21(176pts,0.99scl)  46(135pts,1.11scl)  20(118pts,0.92scl)  48(56pts,1.13scl)  19(73pts,0.75scl)  47(41pts,1.12scl)  17(58pts,0.74scl)  18(61pts,0.71scl)  16(46pts,0.71scl)  14(26pts,0.68scl)  15(26pts,0.67scl)  13(23pts,0.71scl)  12(16pts,0.74scl)  49(12pts,1.11scl)  11(14pts,0.71scl)  10(13pts,0.70scl)   8(10pts,0.72scl)   7(8pts,0.74scl)  50(3pts,1.07scl)   9(4pts,0.70scl) (1816 shared points)
+22:15:49 [Scene   ] Reference image  98 sees 26 views:  99(879pts,0.98scl)  96(281pts,1.05scl)  97(304pts,1.03scl)  95(286pts,1.09scl)   0(561pts,1.10scl)   1(484pts,1.10scl)   2(412pts,1.14scl)  94(217pts,1.11scl)   8(318pts,1.03scl)  10(313pts,1.01scl)   7(309pts,1.01scl)   3(283pts,1.19scl)  11(278pts,0.97scl)  12(240pts,0.94scl)   5(196pts,1.25scl)  13(195pts,0.89scl)   9(192pts,0.96scl)  93(125pts,1.09scl)  14(169pts,0.84scl)   4(102pts,1.09scl)   6(116pts,0.93scl)  15(105pts,0.83scl)  16(52pts,0.72scl)  92(34pts,1.08scl)  18(15pts,0.68scl)  91(4pts,1.00scl) (1069 shared points)
+22:15:49 [Scene   ] Reference image  87 sees 22 views:  88(1558pts,1.03scl)  86(1718pts,0.96scl)  85(1493pts,0.99scl)  89(1318pts,1.06scl)  84(1096pts,1.04scl)  90(903pts,1.15scl)  81(890pts,1.04scl)  91(578pts,1.16scl)  80(593pts,1.07scl)  79(406pts,1.02scl)  83(233pts,0.88scl)  92(342pts,1.19scl)  78(302pts,1.05scl)  93(202pts,1.22scl)  77(207pts,1.04scl)  82(207pts,0.84scl)  76(133pts,1.10scl)  75(85pts,1.16scl)  94(72pts,1.24scl)  74(45pts,1.18scl)  95(17pts,1.28scl)  73(5pts,1.26scl) (2338 shared points)
+22:15:49 [Scene   ] Reference image  18 sees 44 views:  15(2851pts,1.03scl)  16(3695pts,0.98scl)  19(2948pts,1.06scl)  17(3867pts,1.03scl)  14(2030pts,1.08scl)  20(2426pts,1.12scl)  13(1504pts,1.14scl)  12(1049pts,1.21scl)  21(2113pts,1.16scl)  11(801pts,1.24scl)  22(1697pts,1.24scl)  10(633pts,1.26scl)  24(1227pts,1.31scl)  26(977pts,1.34scl)   8(459pts,1.31scl)  23(863pts,1.17scl)   7(334pts,1.33scl)  28(335pts,1.33scl)  25(392pts,1.10scl)   9(100pts,1.34scl)  30(143pts,1.41scl)  32(91pts,1.43scl)  27(134pts,0.96scl)  34(60pts,1.47scl)  38(58pts,1.51scl)   6(43pts,1.38scl)  29(103pts,0.97scl)  36(34pts,1.45scl)   0(22pts,1.41scl)   4(20pts,1.36scl)  99(17pts,1.44scl)  37(24pts,0.99scl)  35(15pts,1.01scl)  98(15pts,1.49scl)  39(10pts,1.61scl)  33(13pts,0.94scl)   1(8pts,1.25scl)   2(7pts,1.17scl)  40(5pts,1.84scl)  97(4pts,1.40scl)   3(3pts,1.22scl)  42(3pts,1.15scl)   5(3pts,1.27scl)  31(3pts,0.90scl) (4772 shared points)
+22:15:49 [Scene   ] Reference image  75 sees 25 views:  76(937pts,0.95scl)  77(728pts,0.92scl)  74(561pts,1.05scl)  73(167pts,1.11scl)  78(232pts,0.85scl)  79(183pts,0.80scl)  72(197pts,1.18scl)  71(177pts,1.20scl)  82(178pts,0.92scl)  83(159pts,0.99scl)  70(137pts,1.20scl)  80(138pts,0.78scl)  69(69pts,1.21scl)  81(112pts,0.75scl)  87(85pts,0.88scl)  85(93pts,0.78scl)  86(87pts,0.80scl)  84(69pts,0.73scl)  88(47pts,0.90scl)  90(40pts,1.02scl)  89(36pts,0.93scl)  91(23pts,0.98scl)  68(17pts,1.17scl)  92(15pts,1.02scl)  93(6pts,1.01scl) (1217 shared points)
+22:15:49 [Scene   ] Reference image  28 sees 42 views:  26(1260pts,1.00scl)  24(1046pts,1.02scl)  25(843pts,1.04scl)  32(728pts,1.03scl)  30(947pts,1.05scl)  27(920pts,0.99scl)  34(516pts,0.99scl)  23(627pts,1.05scl)  33(440pts,1.03scl)  31(495pts,1.02scl)  35(380pts,1.03scl)  29(1073pts,1.00scl)  22(644pts,1.02scl)  36(437pts,0.93scl)  38(453pts,1.04scl)  37(369pts,0.96scl)  21(551pts,0.92scl)  20(518pts,0.89scl)  19(477pts,0.87scl)  39(341pts,1.02scl)  40(299pts,1.01scl)  17(363pts,0.79scl)  41(249pts,1.01scl)  42(269pts,1.00scl)  18(337pts,0.77scl)  16(289pts,0.75scl)  43(216pts,1.00scl)  15(244pts,0.76scl)  14(203pts,0.80scl)  44(179pts,1.02scl)  13(179pts,0.83scl)  45(141pts,1.02scl)  12(142pts,0.87scl)  46(117pts,1.02scl)  11(118pts,0.88scl)  10(96pts,0.88scl)   8(75pts,0.90scl)   7(51pts,0.91scl)  48(32pts,1.04scl)  47(26pts,1.03scl)   9(8pts,0.91scl)  49(4pts,1.06scl) (2521 shared points)
+22:15:49 [Scene   ] Reference image  71 sees 32 views:  70(1105pts,0.98scl)  69(872pts,0.97scl)  72(699pts,0.98scl)  73(420pts,0.91scl)  68(408pts,0.94scl)  74(392pts,0.90scl)  67(187pts,0.95scl)  66(120pts,0.92scl)  75(179pts,0.83scl)  64(69pts,0.96scl)  65(76pts,0.89scl)  76(132pts,0.80scl)  63(51pts,1.01scl)  77(88pts,0.79scl)  61(34pts,1.15scl)  56(34pts,1.36scl)  59(25pts,1.07scl)  54(22pts,1.18scl)  57(23pts,1.02scl)  52(18pts,1.41scl)  53(17pts,1.28scl)  51(14pts,1.35scl)  83(14pts,0.95scl)  62(11pts,0.86scl)  60(10pts,0.88scl)  48(7pts,1.38scl)  50(6pts,1.44scl)  58(7pts,0.84scl)  49(5pts,1.37scl)  82(6pts,0.83scl)  47(4pts,1.30scl)  80(3pts,0.62scl) (1344 shared points)
+22:15:49 [Scene   ] Reference image  92 sees 37 views:  91(679pts,0.97scl)  93(662pts,1.02scl)  90(489pts,0.95scl)  94(408pts,1.04scl)  89(445pts,0.88scl)  95(220pts,1.04scl)  88(402pts,0.85scl)  87(344pts,0.85scl)  86(274pts,0.83scl)  84(242pts,0.95scl)  85(247pts,0.88scl)  81(175pts,0.97scl)  96(121pts,1.02scl)  80(109pts,1.06scl)  97(72pts,0.99scl)  99(83pts,1.02scl)  79(47pts,1.07scl)   0(36pts,1.29scl)   1(34pts,1.26scl)   2(33pts,1.24scl)  98(34pts,0.93scl)  78(28pts,1.00scl)   3(24pts,1.29scl)   5(22pts,1.33scl)  75(15pts,1.00scl)  76(14pts,0.89scl)  77(9pts,0.80scl)   4(8pts,1.44scl)  10(6pts,1.19scl)  11(6pts,1.13scl)   8(5pts,1.09scl)  14(5pts,1.00scl)  12(4pts,1.02scl)  13(3pts,0.94scl)  15(3pts,0.94scl)  82(4pts,0.56scl)  83(3pts,0.60scl) (999 shared points)
+22:15:49 [Scene   ] Reference image  56 sees 28 views:  57(3341pts,0.99scl)  58(2983pts,0.97scl)  54(2676pts,0.99scl)  53(2112pts,1.06scl)  59(3123pts,0.94scl)  52(1456pts,1.18scl)  51(1003pts,1.23scl)  61(2558pts,0.89scl)  60(2480pts,0.97scl)  63(2270pts,1.00scl)  50(759pts,1.30scl)  62(2353pts,1.00scl)  64(2089pts,0.99scl)  65(1827pts,0.96scl)  55(1940pts,0.99scl)  48(833pts,1.37scl)  49(559pts,1.35scl)  66(1147pts,1.00scl)  67(838pts,1.02scl)  68(508pts,0.98scl)  46(265pts,1.43scl)  47(225pts,1.38scl)  69(251pts,0.93scl)  45(123pts,1.43scl)  44(50pts,1.46scl)  70(87pts,0.79scl)  71(34pts,0.77scl)  43(12pts,1.48scl) (4799 shared points)
+22:15:49 [Scene   ] Reference image  91 sees 28 views:  92(677pts,1.03scl)  90(756pts,0.97scl)  89(791pts,0.90scl)  93(444pts,1.05scl)  88(729pts,0.87scl)  87(580pts,0.86scl)  94(195pts,1.09scl)  86(453pts,0.84scl)  85(410pts,0.89scl)  84(376pts,0.96scl)  81(281pts,0.99scl)  80(155pts,1.06scl)  95(83pts,1.08scl)  79(59pts,1.03scl)  96(46pts,1.06scl)  78(36pts,0.98scl)  75(22pts,1.03scl)  76(21pts,0.91scl)  99(25pts,1.10scl)  97(20pts,1.05scl)  77(11pts,0.83scl)   0(10pts,1.48scl)   1(7pts,1.45scl)   2(6pts,1.46scl)  83(8pts,0.60scl)  98(4pts,1.01scl)  74(5pts,1.14scl)  82(6pts,0.57scl) (1155 shared points)
+22:15:49 [Scene   ] Reference image  30 sees 40 views:  28(947pts,0.96scl)  32(666pts,1.03scl)  26(597pts,0.96scl)  34(381pts,1.07scl)  27(470pts,0.94scl)  29(625pts,0.97scl)  25(407pts,1.03scl)  33(371pts,0.99scl)  24(406pts,0.98scl)  35(253pts,1.00scl)  36(211pts,1.01scl)  31(575pts,1.01scl)  37(126pts,0.96scl)  23(271pts,1.03scl)  38(193pts,1.06scl)  22(255pts,0.98scl)  21(288pts,0.92scl)  20(263pts,0.90scl)  40(108pts,1.09scl)  39(122pts,1.06scl)  19(205pts,0.85scl)  41(85pts,1.11scl)  42(105pts,1.08scl)  17(144pts,0.75scl)  18(140pts,0.73scl)  16(114pts,0.71scl)  43(72pts,1.08scl)  15(82pts,0.72scl)  44(55pts,1.10scl)  14(70pts,0.76scl)  13(66pts,0.78scl)  12(46pts,0.83scl)  11(40pts,0.83scl)  45(30pts,1.13scl)  46(24pts,1.12scl)  10(32pts,0.83scl)   8(24pts,0.84scl)   7(20pts,0.85scl)   9(7pts,0.80scl)  48(3pts,1.15scl) (1488 shared points)
+22:15:49 [Scene   ] Reference image  54 sees 29 views:  57(4235pts,1.06scl)  53(3977pts,1.05scl)  52(3036pts,1.16scl)  55(2958pts,1.06scl)  51(2221pts,1.23scl)  56(2679pts,1.01scl)  58(3369pts,1.06scl)  50(1765pts,1.27scl)  49(1324pts,1.32scl)  48(1715pts,1.34scl)  59(2920pts,0.98scl)  62(2392pts,1.11scl)  63(2194pts,1.12scl)  60(2274pts,1.09scl)  64(1936pts,1.10scl)  65(1666pts,1.06scl)  47(670pts,1.34scl)  66(1000pts,1.10scl)  46(771pts,1.37scl)  61(1464pts,0.91scl)  67(705pts,1.14scl)  45(508pts,1.35scl)  68(421pts,1.10scl)  44(278pts,1.37scl)  69(190pts,1.04scl)  43(105pts,1.36scl)  70(56pts,0.96scl)  42(34pts,1.37scl)  71(22pts,0.87scl) (5947 shared points)
+22:15:49 [Scene   ] Reference image  58 sees 29 views:  57(4782pts,1.00scl)  60(3454pts,1.03scl)  59(3989pts,0.98scl)  56(2971pts,1.04scl)  55(3415pts,0.94scl)  62(3620pts,1.07scl)  61(2291pts,0.97scl)  54(3344pts,0.96scl)  63(3002pts,1.10scl)  53(2898pts,0.98scl)  64(2641pts,1.09scl)  52(2330pts,1.05scl)  65(2192pts,1.07scl)  51(1771pts,1.09scl)  50(1475pts,1.11scl)  48(1452pts,1.19scl)  66(1231pts,1.13scl)  49(1197pts,1.13scl)  67(852pts,1.19scl)  46(735pts,1.15scl)  47(654pts,1.11scl)  68(464pts,1.18scl)  45(484pts,1.10scl)  44(285pts,1.08scl)  69(169pts,1.14scl)  43(115pts,1.04scl)  70(36pts,1.16scl)  42(30pts,1.04scl)  71(7pts,1.19scl) (6564 shared points)
+22:15:49 [Scene   ] Reference image   9 sees 36 views:  10(1499pts,0.94scl)   8(1746pts,0.97scl)  11(1289pts,0.93scl)  12(1162pts,0.90scl)   6(1146pts,1.02scl)   7(1809pts,0.98scl)   4(652pts,1.02scl)  13(997pts,0.86scl)  14(852pts,0.82scl)  15(592pts,0.80scl)   0(661pts,1.06scl)   5(225pts,1.00scl)   1(526pts,1.02scl)   3(235pts,1.00scl)  99(355pts,1.06scl)   2(338pts,1.01scl)  16(304pts,0.74scl)  98(189pts,1.06scl)  18(101pts,0.75scl)  97(76pts,1.07scl)  17(56pts,0.76scl)  19(33pts,0.78scl)  20(26pts,0.82scl)  22(22pts,0.93scl)  24(20pts,1.01scl)  21(24pts,0.86scl)  26(16pts,1.09scl)  95(13pts,1.06scl)  28(9pts,1.10scl)  23(9pts,0.89scl)  30(7pts,1.26scl)  94(8pts,1.14scl)  32(4pts,1.42scl)  34(4pts,1.44scl)  36(3pts,1.55scl)  96(3pts,0.98scl) (2121 shared points)
+22:15:49 [Scene   ] Reference image  13 sees 44 views:  11(3656pts,1.08scl)  10(3086pts,1.09scl)   8(2590pts,1.13scl)  15(3303pts,0.92scl)   7(2191pts,1.14scl)  12(4260pts,1.05scl)  16(2291pts,0.86scl)  14(4397pts,0.95scl)  18(1516pts,0.88scl)   9(1001pts,1.16scl)  17(1254pts,0.91scl)   6(664pts,1.20scl)  19(979pts,0.93scl)  20(878pts,0.99scl)  21(817pts,1.04scl)  22(733pts,1.12scl)   0(488pts,1.20scl)  24(580pts,1.19scl)  26(461pts,1.24scl)   4(416pts,1.20scl)   1(408pts,1.14scl)  99(327pts,1.17scl)   2(269pts,1.12scl)  23(288pts,1.05scl)  28(178pts,1.23scl)   3(183pts,1.10scl)  98(194pts,1.16scl)   5(165pts,1.12scl)  25(102pts,0.99scl)  30(68pts,1.30scl)  97(63pts,1.23scl)  32(43pts,1.36scl)  34(23pts,1.47scl)  38(25pts,1.46scl)  95(26pts,1.08scl)  94(21pts,1.10scl)  27(27pts,0.84scl)  96(19pts,0.96scl)  29(22pts,0.85scl)  36(12pts,1.59scl)  93(10pts,1.10scl)  39(6pts,1.28scl)  40(3pts,1.41scl)  92(3pts,1.09scl) (5660 shared points)
+22:15:49 [Scene   ] Reference image  85 sees 22 views:  86(2193pts,0.98scl)  81(1767pts,1.01scl)  84(1926pts,1.00scl)  87(1499pts,1.02scl)  80(1333pts,1.03scl)  83(982pts,1.02scl)  82(905pts,0.98scl)  79(1087pts,1.03scl)  88(1051pts,1.03scl)  78(808pts,1.09scl)  89(880pts,1.05scl)  90(644pts,1.15scl)  77(383pts,1.14scl)  91(409pts,1.14scl)  92(247pts,1.15scl)  76(182pts,1.22scl)  93(137pts,1.17scl)  75(92pts,1.28scl)  74(49pts,1.32scl)  94(46pts,1.18scl)  95(10pts,1.24scl)  73(5pts,1.44scl) (3045 shared points)
+22:15:49 [Scene   ] Reference image  67 sees 32 views:  68(2073pts,0.99scl)  65(2231pts,0.91scl)  66(2531pts,0.96scl)  64(1989pts,0.95scl)  69(1043pts,0.99scl)  63(1791pts,0.98scl)  70(490pts,1.03scl)  62(1021pts,0.89scl)  59(1040pts,0.94scl)  57(949pts,0.92scl)  61(873pts,1.01scl)  56(838pts,1.05scl)  60(851pts,0.87scl)  58(850pts,0.85scl)  53(658pts,0.97scl)  54(706pts,0.92scl)  52(578pts,1.03scl)  51(486pts,1.07scl)  48(441pts,1.15scl)  50(424pts,1.08scl)  49(365pts,1.11scl)  71(186pts,1.05scl)  55(340pts,0.73scl)  47(180pts,1.11scl)  46(159pts,1.16scl)  45(63pts,1.10scl)  72(39pts,1.02scl)  44(21pts,1.10scl)  73(16pts,0.95scl)  74(14pts,0.93scl)  43(7pts,0.94scl)  42(4pts,0.94scl) (3244 shared points)
+22:15:49 [Scene   ] Reference image  43 sees 49 views:  45(3304pts,1.01scl)  46(2563pts,1.01scl)  41(2328pts,1.00scl)  44(4136pts,1.01scl)  42(3967pts,1.01scl)  40(2055pts,1.00scl)  39(1820pts,1.02scl)  47(1238pts,1.01scl)  38(2041pts,1.04scl)  48(1208pts,1.01scl)  37(1970pts,1.05scl)  35(964pts,1.18scl)  49(572pts,0.98scl)  33(679pts,1.26scl)  36(736pts,0.90scl)  50(364pts,0.94scl)  27(383pts,1.31scl)  29(392pts,1.26scl)  25(374pts,1.37scl)  31(271pts,1.36scl)  34(260pts,0.93scl)  23(192pts,1.36scl)  51(242pts,0.91scl)  28(217pts,1.01scl)  32(207pts,0.96scl)  22(141pts,1.57scl)  24(172pts,1.09scl)  52(210pts,0.84scl)  55(148pts,0.90scl)  26(124pts,0.99scl)  58(116pts,0.98scl)  21(79pts,1.73scl)  53(160pts,0.76scl)  60(73pts,1.03scl)  30(72pts,0.93scl)  54(105pts,0.74scl)  57(83pts,0.85scl)  62(55pts,1.12scl)  63(43pts,1.06scl)  64(37pts,1.08scl)  20(23pts,1.59scl)  65(28pts,1.05scl)  66(13pts,1.07scl)  59(20pts,0.72scl)  19(11pts,1.38scl)  67(7pts,1.14scl)  56(12pts,0.68scl)  68(4pts,1.14scl)  61(5pts,0.63scl) (5114 shared points)
+22:15:49 [Scene   ] Reference image   5 sees 25 views:   1(616pts,0.96scl)   2(686pts,0.96scl)   3(785pts,0.99scl)   0(473pts,0.97scl)   4(409pts,1.00scl)   6(222pts,1.00scl)   7(289pts,0.98scl)   9(227pts,1.00scl)   8(302pts,0.99scl)  10(296pts,0.97scl)  11(242pts,0.95scl)  12(204pts,0.93scl)  99(252pts,0.82scl)  13(164pts,0.90scl)  98(196pts,0.82scl)  14(125pts,0.84scl)  15(79pts,0.84scl)  95(107pts,0.83scl)  94(77pts,0.81scl)  96(71pts,0.79scl)  93(54pts,0.79scl)  97(47pts,0.86scl)  92(22pts,0.77scl)  16(12pts,0.83scl)  18(3pts,0.80scl) (1017 shared points)
+22:15:49 [Scene   ] Reference image  69 sees 33 views:  68(1428pts,0.99scl)  70(1366pts,1.02scl)  67(1048pts,1.01scl)  71(876pts,1.03scl)  66(867pts,0.98scl)  65(654pts,0.93scl)  64(578pts,0.99scl)  63(523pts,1.04scl)  72(424pts,1.01scl)  59(291pts,1.03scl)  61(273pts,1.11scl)  56(254pts,1.18scl)  57(227pts,1.01scl)  62(213pts,0.91scl)  53(183pts,1.08scl)  73(229pts,0.93scl)  54(192pts,1.01scl)  52(159pts,1.12scl)  74(206pts,0.92scl)  60(180pts,0.90scl)  48(142pts,1.21scl)  51(137pts,1.14scl)  58(170pts,0.88scl)  50(136pts,1.15scl)  49(108pts,1.16scl)  47(93pts,1.14scl)  46(64pts,1.22scl)  55(67pts,0.75scl)  75(69pts,0.83scl)  76(50pts,0.79scl)  77(42pts,0.78scl)  45(14pts,1.32scl)  83(3pts,0.96scl) (2162 shared points)
+22:15:49 [Scene   ] Reference image  39 sees 42 views:  41(2225pts,0.99scl)  42(2061pts,0.99scl)  38(2015pts,1.01scl)  37(1778pts,1.02scl)  40(2462pts,0.98scl)  43(1800pts,0.98scl)  35(1242pts,1.14scl)  44(1621pts,1.00scl)  36(786pts,0.90scl)  33(862pts,1.21scl)  45(1346pts,0.99scl)  46(1092pts,1.00scl)  34(314pts,0.93scl)  48(517pts,1.00scl)  27(510pts,1.24scl)  47(536pts,0.99scl)  29(533pts,1.20scl)  25(453pts,1.31scl)  31(340pts,1.28scl)  32(267pts,0.96scl)  28(339pts,0.99scl)  23(244pts,1.30scl)  24(215pts,1.07scl)  22(189pts,1.48scl)  49(170pts,0.97scl)  26(181pts,0.97scl)  30(121pts,0.94scl)  21(98pts,1.53scl)  50(69pts,0.95scl)  20(43pts,1.23scl)  19(45pts,1.04scl)  17(19pts,0.82scl)  16(12pts,0.63scl)  18(10pts,0.64scl)  51(6pts,1.02scl)  15(8pts,0.69scl)  12(6pts,0.85scl)  13(6pts,0.79scl)  14(6pts,0.77scl)  10(4pts,0.83scl)  11(4pts,0.82scl)   8(3pts,0.83scl) (3043 shared points)
+22:15:49 [Scene   ] Reference image  78 sees 22 views:  79(1535pts,0.94scl)  80(1313pts,0.91scl)  77(882pts,1.04scl)  76(480pts,1.11scl)  81(1170pts,0.89scl)  82(1011pts,0.93scl)  75(229pts,1.18scl)  85(813pts,0.93scl)  83(862pts,0.98scl)  84(749pts,0.86scl)  86(583pts,0.95scl)  87(301pts,0.97scl)  74(87pts,1.24scl)  88(205pts,1.01scl)  89(136pts,1.04scl)  90(124pts,1.13scl)  91(36pts,1.05scl)  92(28pts,1.03scl)  73(13pts,1.39scl)  72(8pts,1.46scl)  93(11pts,1.00scl)  94(3pts,0.99scl) (1929 shared points)
+22:15:49 [Scene   ] Reference image  74 sees 25 views:  73(465pts,1.02scl)  75(565pts,0.95scl)  76(445pts,0.91scl)  72(440pts,1.10scl)  77(276pts,0.87scl)  71(393pts,1.11scl)  70(319pts,1.10scl)  69(206pts,1.08scl)  78(84pts,0.80scl)  82(141pts,0.94scl)  83(130pts,1.02scl)  68(72pts,1.04scl)  79(86pts,0.76scl)  80(75pts,0.75scl)  87(45pts,0.86scl)  81(56pts,0.72scl)  85(50pts,0.76scl)  86(46pts,0.78scl)  67(14pts,1.08scl)  84(31pts,0.70scl)  88(20pts,0.88scl)  90(14pts,0.99scl)  89(14pts,0.92scl)  91(5pts,0.88scl)  93(3pts,0.90scl) (1075 shared points)
+22:15:49 [Scene   ] Reference image  25 sees 42 views:  23(1408pts,1.05scl)  22(987pts,1.10scl)  28(839pts,0.97scl)  27(1146pts,0.94scl)  29(866pts,0.94scl)  24(1819pts,1.01scl)  26(1745pts,0.99scl)  21(765pts,1.05scl)  30(405pts,0.99scl)  31(391pts,0.94scl)  33(487pts,0.90scl)  20(608pts,1.00scl)  19(557pts,0.98scl)  35(462pts,0.86scl)  38(701pts,0.89scl)  37(648pts,0.81scl)  32(212pts,0.99scl)  17(449pts,0.93scl)  39(455pts,0.79scl)  18(389pts,0.91scl)  36(331pts,0.86scl)  40(414pts,0.76scl)  16(296pts,0.89scl)  42(425pts,0.76scl)  43(377pts,0.75scl)  34(189pts,0.95scl)  41(366pts,0.73scl)  44(345pts,0.75scl)  45(279pts,0.74scl)  15(209pts,0.92scl)  46(240pts,0.73scl)  14(136pts,0.97scl)  13(101pts,1.01scl)  47(159pts,0.66scl)  48(127pts,0.69scl)  12(68pts,1.07scl)  11(43pts,1.10scl)  10(35pts,1.11scl)  49(57pts,0.62scl)   8(21pts,1.16scl)   7(15pts,1.16scl)  50(16pts,0.62scl) (3265 shared points)
+22:15:49 [Scene   ] Reference image  12 sees 44 views:   8(3107pts,1.07scl)  10(3643pts,1.04scl)   7(2619pts,1.09scl)  14(3708pts,0.90scl)  15(2522pts,0.87scl)  13(4269pts,0.95scl)  11(4383pts,1.03scl)   9(1160pts,1.11scl)  16(1687pts,0.82scl)  18(1057pts,0.83scl)   6(750pts,1.14scl)  17(879pts,0.85scl)   0(583pts,1.14scl)   1(498pts,1.09scl)  19(682pts,0.88scl)  21(574pts,0.98scl)  20(607pts,0.93scl)   4(465pts,1.14scl)  22(527pts,1.06scl)  99(390pts,1.11scl)  24(446pts,1.14scl)   2(335pts,1.07scl)  26(362pts,1.18scl)   3(243pts,1.06scl)  98(240pts,1.10scl)   5(208pts,1.08scl)  28(141pts,1.17scl)  23(180pts,0.98scl)  97(78pts,1.18scl)  30(48pts,1.23scl)  25(69pts,0.93scl)  38(28pts,1.40scl)  32(29pts,1.29scl)  95(34pts,1.03scl)  94(29pts,1.04scl)  34(16pts,1.41scl)  96(20pts,0.93scl)  36(14pts,1.54scl)  27(20pts,0.79scl)  93(14pts,1.00scl)  29(16pts,0.80scl)  39(6pts,1.20scl)  92(4pts,1.01scl)  40(3pts,1.33scl) (5563 shared points)
+22:15:49 [Scene   ] Reference image  84 sees 22 views:  81(1859pts,1.03scl)  85(1912pts,1.00scl)  86(1501pts,0.97scl)  80(1382pts,1.07scl)  82(974pts,1.02scl)  79(1058pts,1.10scl)  87(1094pts,0.98scl)  78(745pts,1.17scl)  83(938pts,1.06scl)  88(863pts,0.99scl)  89(721pts,0.99scl)  90(506pts,1.09scl)  77(375pts,1.21scl)  91(368pts,1.06scl)  76(192pts,1.29scl)  92(235pts,1.07scl)  93(132pts,1.08scl)  75(69pts,1.37scl)  94(45pts,1.09scl)  74(31pts,1.44scl)  95(10pts,1.17scl)  73(4pts,1.60scl) (2661 shared points)
+22:15:49 [Scene   ] Reference image  33 sees 35 views:  35(1544pts,0.96scl)  29(746pts,1.04scl)  31(811pts,1.04scl)  37(949pts,0.86scl)  27(608pts,1.06scl)  38(842pts,0.87scl)  36(557pts,0.86scl)  28(436pts,0.97scl)  34(580pts,0.96scl)  25(485pts,1.12scl)  30(376pts,1.01scl)  39(859pts,0.83scl)  32(693pts,0.98scl)  41(793pts,0.81scl)  40(800pts,0.81scl)  42(764pts,0.81scl)  26(169pts,1.01scl)  43(677pts,0.80scl)  44(634pts,0.80scl)  23(269pts,1.17scl)  45(561pts,0.80scl)  22(284pts,1.23scl)  46(492pts,0.80scl)  21(248pts,1.22scl)  24(197pts,1.05scl)  47(307pts,0.77scl)  48(264pts,0.79scl)  20(114pts,1.18scl)  49(120pts,0.75scl)  50(47pts,0.74scl)  19(32pts,1.19scl)  18(13pts,1.07scl)  17(12pts,1.09scl)  16(6pts,1.07scl)  51(4pts,0.71scl) (2235 shared points)
+22:15:49 [Scene   ] Reference image  52 sees 30 views:  50(2690pts,1.10scl)  49(2140pts,1.14scl)  48(2657pts,1.16scl)  54(3044pts,0.86scl)  53(3926pts,0.90scl)  51(3283pts,1.06scl)  55(2468pts,0.96scl)  56(1453pts,0.85scl)  47(1156pts,1.16scl)  57(2604pts,0.93scl)  46(1342pts,1.19scl)  58(2334pts,0.98scl)  62(1543pts,1.01scl)  63(1454pts,1.01scl)  45(878pts,1.18scl)  60(1543pts,1.00scl)  64(1329pts,0.99scl)  65(1143pts,0.95scl)  59(1489pts,0.84scl)  44(495pts,1.19scl)  66(746pts,0.98scl)  67(579pts,1.01scl)  61(675pts,0.77scl)  68(353pts,0.98scl)  43(208pts,1.19scl)  69(156pts,0.93scl)  42(63pts,1.21scl)  70(38pts,0.79scl)  71(18pts,0.74scl)  41(3pts,1.26scl) (5090 shared points)
+22:15:49 [Scene   ] Reference image  65 sees 29 views:  63(3881pts,1.05scl)  64(4360pts,1.03scl)  66(2868pts,1.06scl)  67(2226pts,1.10scl)  62(2674pts,0.99scl)  68(1454pts,1.08scl)  60(2046pts,0.96scl)  59(2376pts,1.00scl)  57(2285pts,1.00scl)  58(2195pts,0.95scl)  61(1821pts,1.04scl)  56(1829pts,1.10scl)  54(1664pts,0.98scl)  53(1436pts,1.02scl)  52(1144pts,1.10scl)  69(647pts,1.07scl)  51(895pts,1.13scl)  48(711pts,1.22scl)  50(715pts,1.15scl)  55(992pts,0.82scl)  49(570pts,1.17scl)  70(244pts,1.09scl)  47(271pts,1.14scl)  46(271pts,1.18scl)  45(141pts,1.09scl)  71(74pts,1.13scl)  44(76pts,1.04scl)  43(27pts,1.00scl)  42(8pts,1.03scl) (5125 shared points)
+22:15:49 [Scene   ] Reference image   8 sees 43 views:  12(3098pts,0.93scl)  11(3628pts,0.96scl)  13(2587pts,0.89scl)   9(1738pts,1.03scl)  14(2159pts,0.84scl)  10(4165pts,0.97scl)   7(3974pts,1.01scl)   6(1043pts,1.06scl)  15(1458pts,0.82scl)   4(629pts,1.05scl)  16(870pts,0.76scl)   0(823pts,1.07scl)   1(704pts,1.02scl)  99(529pts,1.01scl)   5(303pts,1.01scl)   2(481pts,1.01scl)   3(368pts,1.00scl)  18(460pts,0.76scl)  98(315pts,1.00scl)  17(353pts,0.78scl)  19(267pts,0.81scl)  21(219pts,0.90scl)  20(225pts,0.86scl)  22(200pts,0.98scl)  24(174pts,1.05scl)  26(148pts,1.12scl)  97(93pts,1.07scl)  28(75pts,1.12scl)  95(53pts,0.96scl)  23(62pts,0.91scl)  96(42pts,0.87scl)  94(36pts,0.99scl)  30(24pts,1.21scl)  38(16pts,1.35scl)  93(18pts,0.98scl)  32(11pts,1.30scl)  25(22pts,0.87scl)  34(10pts,1.41scl)  36(5pts,1.49scl)  92(5pts,0.94scl)  39(3pts,1.22scl)  29(4pts,0.74scl)  27(4pts,0.73scl) (5047 shared points)
+22:15:49 [Scene   ] Reference image  79 sees 23 views:  80(1971pts,0.97scl)  81(1756pts,0.95scl)  78(1539pts,1.07scl)  82(1334pts,0.99scl)  77(751pts,1.11scl)  84(1073pts,0.91scl)  83(1142pts,1.06scl)  76(395pts,1.18scl)  85(1094pts,0.98scl)  86(769pts,0.99scl)  75(183pts,1.25scl)  87(409pts,1.00scl)  88(279pts,1.03scl)  89(178pts,1.03scl)  90(162pts,1.13scl)  74(89pts,1.32scl)  91(59pts,1.02scl)  92(47pts,0.98scl)  93(25pts,0.93scl)  73(11pts,1.47scl)  72(7pts,1.55scl)  94(7pts,0.90scl)  95(3pts,1.03scl) (2572 shared points)
+22:15:49 [Scene   ] Reference image   3 sees 25 views:   1(885pts,0.97scl)   0(698pts,0.98scl)   2(976pts,0.98scl)   5(788pts,1.01scl)   4(333pts,1.01scl)   6(204pts,1.00scl)   7(369pts,1.00scl)   8(371pts,1.00scl)   9(237pts,1.00scl)  10(337pts,0.99scl)  99(397pts,0.86scl)  11(279pts,0.97scl)  12(242pts,0.95scl)  98(283pts,0.86scl)  13(184pts,0.91scl)  14(141pts,0.87scl)  95(125pts,0.86scl)  15(87pts,0.86scl)  94(90pts,0.84scl)  96(85pts,0.82scl)  97(65pts,0.91scl)  93(60pts,0.81scl)  92(24pts,0.79scl)  16(17pts,0.85scl)  18(3pts,0.83scl) (1244 shared points)
+22:15:49 [Scene   ] Reference image  40 sees 41 views:  42(2383pts,1.01scl)  38(1924pts,1.03scl)  43(2049pts,1.00scl)  41(2546pts,1.00scl)  39(2478pts,1.02scl)  44(1820pts,1.02scl)  37(1706pts,1.04scl)  45(1512pts,1.01scl)  35(1199pts,1.17scl)  36(732pts,0.91scl)  46(1245pts,1.02scl)  33(802pts,1.25scl)  48(569pts,1.02scl)  47(576pts,1.01scl)  27(469pts,1.27scl)  29(502pts,1.22scl)  34(304pts,0.94scl)  25(411pts,1.37scl)  31(321pts,1.31scl)  32(251pts,0.96scl)  28(300pts,1.00scl)  49(187pts,1.00scl)  23(204pts,1.35scl)  22(172pts,1.56scl)  24(177pts,1.09scl)  26(142pts,0.97scl)  30(108pts,0.92scl)  50(76pts,0.98scl)  21(95pts,1.65scl)  19(41pts,1.07scl)  20(30pts,1.23scl)  51(11pts,0.99scl)  17(13pts,0.90scl)  16(6pts,0.57scl)  10(3pts,0.81scl)  11(3pts,0.80scl)  12(3pts,0.77scl)  13(3pts,0.73scl)  18(5pts,0.55scl)  14(3pts,0.70scl)  15(3pts,0.66scl) (3251 shared points)
+22:15:49 [Scene   ] Reference image  19 sees 42 views:  20(3427pts,1.06scl)  21(2901pts,1.10scl)  18(2944pts,0.95scl)  17(3209pts,0.97scl)  22(2331pts,1.17scl)  16(2444pts,0.93scl)  15(1858pts,0.97scl)  24(1568pts,1.23scl)  14(1345pts,1.02scl)  23(1113pts,1.10scl)  26(1266pts,1.24scl)  13(976pts,1.07scl)  12(678pts,1.14scl)  11(495pts,1.17scl)  28(472pts,1.20scl)  25(559pts,1.03scl)  10(375pts,1.19scl)   8(265pts,1.24scl)   7(180pts,1.26scl)  30(205pts,1.25scl)  27(234pts,0.90scl)  29(210pts,0.90scl)  32(126pts,1.32scl)  38(90pts,1.28scl)  34(72pts,1.40scl)  36(63pts,1.16scl)  39(44pts,1.06scl)   9(32pts,1.29scl)  40(40pts,0.99scl)  31(50pts,0.81scl)  37(40pts,0.83scl)  35(29pts,0.86scl)  33(32pts,0.85scl)  41(19pts,0.89scl)  42(18pts,0.82scl)  45(17pts,0.88scl)  46(14pts,0.89scl)  44(14pts,0.82scl)  43(11pts,0.73scl)   6(4pts,1.33scl)  48(6pts,0.81scl)  47(3pts,0.71scl) (4505 shared points)
+22:15:49 [Scene   ] Reference image  80 sees 24 views:  81(2194pts,0.97scl)  79(1958pts,1.03scl)  78(1313pts,1.09scl)  82(1472pts,1.01scl)  84(1400pts,0.93scl)  83(1169pts,1.08scl)  85(1337pts,0.98scl)  77(603pts,1.14scl)  86(974pts,0.97scl)  87(591pts,0.97scl)  76(312pts,1.21scl)  88(404pts,0.96scl)  89(311pts,0.94scl)  90(238pts,1.06scl)  75(138pts,1.28scl)  91(155pts,0.97scl)  92(108pts,0.96scl)  74(77pts,1.34scl)  93(64pts,0.95scl)  94(25pts,0.94scl)  73(11pts,1.50scl)  95(8pts,1.01scl)  72(4pts,1.61scl)  71(3pts,1.62scl) (2851 shared points)
+22:15:49 [Scene   ] Reference image  66 sees 30 views:  65(2884pts,0.95scl)  64(2580pts,0.98scl)  68(1843pts,1.03scl)  67(2535pts,1.04scl)  63(2341pts,1.01scl)  69(866pts,1.02scl)  62(1488pts,0.93scl)  59(1414pts,0.96scl)  57(1323pts,0.95scl)  56(1154pts,1.06scl)  60(1204pts,0.91scl)  58(1243pts,0.90scl)  61(1159pts,1.02scl)  53(900pts,1.00scl)  54(1006pts,0.94scl)  52(755pts,1.06scl)  70(361pts,1.05scl)  51(622pts,1.09scl)  48(527pts,1.18scl)  50(536pts,1.11scl)  49(434pts,1.13scl)  55(510pts,0.77scl)  47(209pts,1.12scl)  46(192pts,1.17scl)  71(120pts,1.08scl)  45(87pts,1.11scl)  44(36pts,1.07scl)  43(13pts,0.99scl)  42(5pts,1.04scl)  72(3pts,1.06scl) (3706 shared points)
+22:15:49 [Scene   ] Reference image   1 sees 27 views:   3(885pts,1.03scl)   0(1399pts,1.01scl)   2(1260pts,1.01scl)   5(618pts,1.05scl)   4(314pts,1.00scl)   8(709pts,0.98scl)   7(733pts,0.98scl)  99(768pts,0.91scl)  10(637pts,0.96scl)  11(551pts,0.95scl)  12(499pts,0.92scl)   9(533pts,0.98scl)  98(484pts,0.92scl)  13(409pts,0.88scl)   6(396pts,0.98scl)  14(342pts,0.84scl)  15(213pts,0.83scl)  95(180pts,0.89scl)  97(144pts,0.94scl)  94(144pts,0.89scl)  96(132pts,0.85scl)  93(86pts,0.86scl)  16(66pts,0.77scl)  92(32pts,0.81scl)  18(8pts,0.81scl)  91(7pts,0.70scl)  90(3pts,0.65scl) (1839 shared points)
+22:15:49 [Scene   ] Reference image  90 sees 27 views:  89(1078pts,0.93scl)  88(1117pts,0.89scl)  91(753pts,1.03scl)  92(485pts,1.05scl)  87(908pts,0.87scl)  93(283pts,1.08scl)  86(743pts,0.85scl)  85(642pts,0.88scl)  84(514pts,0.94scl)  81(376pts,0.95scl)  80(238pts,0.99scl)  94(111pts,1.11scl)  79(160pts,0.92scl)  78(125pts,0.91scl)  95(42pts,1.10scl)  76(68pts,0.91scl)  77(77pts,0.84scl)  83(56pts,0.64scl)  75(40pts,0.99scl)  82(45pts,0.61scl)  96(17pts,1.07scl)  74(14pts,1.04scl)  97(8pts,1.07scl)  99(9pts,1.10scl)   0(5pts,1.45scl)   2(3pts,1.44scl)   1(3pts,1.53scl) (1495 shared points)
+22:15:49 [Scene   ] Reference image  16 sees 45 views:  14(3013pts,1.10scl)  17(3177pts,1.05scl)  18(3702pts,1.02scl)  13(2293pts,1.16scl)  15(3761pts,1.05scl)  12(1686pts,1.22scl)  19(2449pts,1.08scl)  11(1342pts,1.26scl)  10(1109pts,1.28scl)  20(2048pts,1.15scl)   8(879pts,1.33scl)  21(1802pts,1.19scl)   7(711pts,1.34scl)  22(1457pts,1.28scl)  24(1084pts,1.35scl)  26(850pts,1.38scl)  23(691pts,1.19scl)   9(304pts,1.35scl)  28(287pts,1.37scl)  25(297pts,1.12scl)   6(184pts,1.40scl)  30(116pts,1.44scl)   4(97pts,1.40scl)   0(101pts,1.41scl)  32(74pts,1.46scl)  99(80pts,1.42scl)   1(66pts,1.31scl)  27(99pts,0.96scl)  38(50pts,1.57scl)  98(52pts,1.43scl)  34(45pts,1.49scl)  29(78pts,0.97scl)   2(34pts,1.21scl)  97(23pts,1.43scl)  36(25pts,1.50scl)   3(17pts,1.18scl)  39(12pts,1.63scl)   5(12pts,1.24scl)  37(17pts,0.99scl)  35(7pts,1.02scl)  40(6pts,1.79scl)  33(6pts,0.93scl)  42(5pts,1.17scl)  94(4pts,1.54scl)  95(3pts,1.64scl) (5127 shared points)
+22:15:49 [Scene   ] Reference image  36 sees 43 views:  38(1347pts,1.10scl)  32(674pts,1.04scl)  39(793pts,1.11scl)  34(947pts,1.03scl)  33(560pts,1.18scl)  35(900pts,1.13scl)  40(733pts,1.10scl)  37(1370pts,1.05scl)  41(627pts,1.11scl)  28(437pts,1.09scl)  42(845pts,1.11scl)  30(213pts,1.00scl)  31(213pts,1.20scl)  29(375pts,1.18scl)  43(732pts,1.12scl)  44(579pts,1.14scl)  24(401pts,1.13scl)  45(468pts,1.14scl)  25(333pts,1.19scl)  46(369pts,1.15scl)  27(279pts,1.17scl)  26(271pts,1.04scl)  23(247pts,1.16scl)  22(234pts,1.17scl)  48(156pts,1.17scl)  47(125pts,1.16scl)  21(111pts,1.10scl)  20(78pts,1.00scl)  19(64pts,0.99scl)  49(34pts,1.15scl)  17(38pts,0.80scl)  18(34pts,0.74scl)  16(25pts,0.72scl)  50(14pts,1.12scl)  15(15pts,0.69scl)  14(14pts,0.69scl)  12(14pts,0.69scl)  13(12pts,0.67scl)  11(9pts,0.63scl)  10(7pts,0.65scl)   8(5pts,0.69scl)   7(4pts,0.70scl)   9(3pts,0.64scl) (2318 shared points)
+22:15:49 [Scene   ] Reference image   6 sees 24 views:   7(1130pts,0.96scl)   8(1048pts,0.95scl)   9(1148pts,0.98scl)  10(936pts,0.92scl)   4(739pts,0.99scl)  11(825pts,0.90scl)  12(748pts,0.88scl)   5(220pts,1.00scl)   3(204pts,1.00scl)   2(258pts,1.02scl)  13(658pts,0.84scl)   0(552pts,1.06scl)   1(389pts,1.03scl)  14(564pts,0.79scl)  15(381pts,0.77scl)  99(260pts,1.07scl)  16(183pts,0.72scl)  98(112pts,1.09scl)  18(43pts,0.73scl)  97(36pts,1.09scl)  17(13pts,0.75scl)  95(3pts,1.27scl)  19(4pts,0.75scl)  20(3pts,0.79scl) (1435 shared points)
+22:15:49 [Scene   ] Reference image  89 sees 21 views:  88(1630pts,0.96scl)  90(1075pts,1.08scl)  87(1324pts,0.95scl)  91(786pts,1.11scl)  92(442pts,1.14scl)  86(1039pts,0.92scl)  85(876pts,0.97scl)  84(728pts,1.03scl)  81(532pts,1.06scl)  93(239pts,1.18scl)  80(314pts,1.11scl)  79(176pts,1.01scl)  78(135pts,0.99scl)  94(77pts,1.22scl)  77(88pts,0.94scl)  76(66pts,1.00scl)  83(43pts,0.68scl)  75(36pts,1.10scl)  82(32pts,0.65scl)  95(18pts,1.24scl)  74(14pts,1.11scl) (1888 shared points)
+22:15:49 [Scene   ] Reference image   4 sees 26 views:   9(655pts,0.98scl)   6(740pts,1.01scl)   7(661pts,0.96scl)   8(634pts,0.95scl)   5(407pts,1.00scl)   3(328pts,0.99scl)   2(297pts,0.99scl)  10(603pts,0.93scl)   1(315pts,1.00scl)  11(522pts,0.91scl)   0(376pts,1.05scl)  12(468pts,0.88scl)  13(417pts,0.83scl)  14(335pts,0.79scl)  99(188pts,1.00scl)  15(241pts,0.77scl)  98(102pts,0.97scl)  16(97pts,0.71scl)  97(29pts,0.98scl)  95(27pts,0.80scl)  18(20pts,0.73scl)  94(20pts,0.75scl)  96(21pts,0.70scl)  93(13pts,0.70scl)  92(8pts,0.70scl)  17(3pts,0.77scl) (1076 shared points)
+22:15:49 [Scene   ] Reference image  31 sees 33 views:  29(807pts,1.00scl)  33(818pts,0.96scl)  27(579pts,1.01scl)  35(611pts,0.91scl)  28(495pts,0.98scl)  25(393pts,1.07scl)  32(402pts,0.99scl)  34(276pts,0.96scl)  26(268pts,1.00scl)  37(306pts,0.82scl)  36(213pts,0.85scl)  30(576pts,0.99scl)  24(188pts,1.04scl)  38(296pts,0.85scl)  22(183pts,1.20scl)  23(177pts,1.13scl)  39(339pts,0.80scl)  42(311pts,0.78scl)  40(321pts,0.78scl)  41(309pts,0.77scl)  21(184pts,1.19scl)  43(272pts,0.76scl)  44(242pts,0.75scl)  20(126pts,1.19scl)  45(205pts,0.74scl)  46(173pts,0.73scl)  47(131pts,0.71scl)  48(100pts,0.72scl)  19(50pts,1.23scl)  49(59pts,0.70scl)  50(28pts,0.67scl)  17(4pts,1.27scl)  18(3pts,1.11scl) (1387 shared points)
+22:15:49 [Scene   ] Reference image  72 sees 16 views:  71(700pts,1.02scl)  70(590pts,1.00scl)  73(417pts,0.93scl)  74(439pts,0.91scl)  69(420pts,0.99scl)  75(201pts,0.85scl)  68(163pts,0.96scl)  76(155pts,0.81scl)  77(83pts,0.79scl)  67(39pts,0.98scl)  83(34pts,0.99scl)  82(23pts,0.88scl)  78(8pts,0.69scl)  79(7pts,0.65scl)  66(3pts,0.95scl)  80(4pts,0.62scl) (931 shared points)
+22:15:49 [Scene   ] Reference image  46 sees 51 views:  44(3555pts,1.00scl)  48(3403pts,0.99scl)  43(2563pts,0.99scl)  45(4378pts,0.99scl)  47(2993pts,0.99scl)  49(2090pts,0.97scl)  42(2047pts,0.99scl)  50(1797pts,0.93scl)  41(1373pts,0.98scl)  51(1439pts,0.91scl)  52(1358pts,0.84scl)  40(1249pts,0.98scl)  39(1102pts,1.00scl)  53(1145pts,0.76scl)  37(1116pts,1.04scl)  38(1099pts,1.02scl)  35(644pts,1.18scl)  55(923pts,0.86scl)  58(742pts,0.89scl)  33(490pts,1.26scl)  54(773pts,0.73scl)  60(542pts,0.93scl)  57(695pts,0.81scl)  62(442pts,0.96scl)  27(257pts,1.33scl)  63(365pts,0.94scl)  29(257pts,1.27scl)  64(326pts,0.94scl)  36(372pts,0.87scl)  25(239pts,1.43scl)  65(274pts,0.90scl)  31(171pts,1.39scl)  66(192pts,0.90scl)  56(266pts,0.70scl)  23(112pts,1.37scl)  67(161pts,0.90scl)  59(286pts,0.71scl)  34(137pts,0.90scl)  28(117pts,0.98scl)  68(129pts,0.86scl)  22(88pts,1.63scl)  24(81pts,1.07scl)  32(114pts,0.94scl)  21(66pts,1.80scl)  61(137pts,0.64scl)  26(53pts,0.95scl)  69(64pts,0.83scl)  30(24pts,0.89scl)  19(14pts,1.18scl)  20(14pts,1.78scl)  70(6pts,0.81scl) (5814 shared points)
+22:15:49 [Scene   ] Reference image  93 sees 37 views:  94(713pts,1.02scl)  92(661pts,0.98scl)  95(475pts,1.02scl)  91(446pts,0.95scl)  90(286pts,0.93scl)  96(265pts,1.00scl)  97(149pts,0.97scl)  89(240pts,0.85scl)  99(214pts,0.98scl)  88(225pts,0.82scl)  87(205pts,0.83scl)  98(125pts,0.92scl)  86(157pts,0.81scl)  84(139pts,0.94scl)  85(137pts,0.86scl)   0(95pts,1.19scl)   1(89pts,1.19scl)  81(95pts,0.97scl)   2(79pts,1.20scl)  80(65pts,1.07scl)   3(60pts,1.25scl)   5(54pts,1.29scl)  79(25pts,1.11scl)  10(21pts,1.11scl)  11(20pts,1.05scl)   8(18pts,1.05scl)   4(13pts,1.43scl)  12(14pts,1.04scl)  78(11pts,1.01scl)  14(11pts,0.94scl)  13(10pts,0.94scl)  75(6pts,1.01scl)   7(8pts,0.89scl)  15(6pts,0.92scl)  76(4pts,0.89scl)  77(4pts,0.81scl)  74(3pts,1.11scl) (1047 shared points)
+22:15:49 [Scene   ] Reference image  53 sees 29 views:  54(3988pts,0.95scl)  51(2901pts,1.18scl)  52(3917pts,1.11scl)  55(2906pts,1.04scl)  50(2360pts,1.22scl)  57(3502pts,1.02scl)  56(2121pts,0.94scl)  48(2373pts,1.29scl)  49(1801pts,1.27scl)  58(2916pts,1.05scl)  47(943pts,1.29scl)  46(1135pts,1.32scl)  62(1976pts,1.08scl)  60(1946pts,1.06scl)  63(1847pts,1.08scl)  59(2173pts,0.93scl)  64(1688pts,1.06scl)  65(1436pts,1.03scl)  45(724pts,1.31scl)  66(893pts,1.05scl)  61(1058pts,0.85scl)  67(658pts,1.08scl)  44(403pts,1.32scl)  68(411pts,1.05scl)  43(158pts,1.32scl)  69(181pts,0.98scl)  42(54pts,1.34scl)  70(51pts,0.84scl)  71(17pts,0.82scl) (5843 shared points)
+22:15:49 [Scene   ] Reference image   7 sees 39 views:  11(3033pts,0.95scl)  12(2620pts,0.92scl)  10(3624pts,0.96scl)  13(2190pts,0.88scl)   6(1127pts,1.05scl)   8(3987pts,0.99scl)  14(1832pts,0.83scl)   9(1808pts,1.02scl)   4(660pts,1.04scl)  15(1244pts,0.81scl)   0(851pts,1.06scl)  16(707pts,0.75scl)   1(729pts,1.02scl)   5(291pts,1.02scl)  99(538pts,1.01scl)   3(367pts,1.00scl)   2(494pts,1.01scl)  98(304pts,1.01scl)  18(335pts,0.75scl)  17(249pts,0.77scl)  19(182pts,0.79scl)  22(136pts,0.96scl)  21(145pts,0.89scl)  20(150pts,0.85scl)  24(115pts,1.03scl)  97(97pts,1.07scl)  26(96pts,1.10scl)  28(52pts,1.11scl)  23(45pts,0.90scl)  95(39pts,1.02scl)  96(32pts,0.91scl)  30(20pts,1.20scl)  94(25pts,1.07scl)  38(14pts,1.35scl)  25(16pts,0.86scl)  32(8pts,1.30scl)  34(8pts,1.37scl)  93(8pts,1.14scl)  36(4pts,1.46scl) (4513 shared points)
+22:15:49 [Scene   ] Reference image  77 sees 25 views:  76(1045pts,1.04scl)  75(729pts,1.09scl)  78(885pts,0.96scl)  79(747pts,0.90scl)  80(603pts,0.88scl)  74(280pts,1.15scl)  82(547pts,0.88scl)  81(553pts,0.85scl)  83(478pts,0.93scl)  85(394pts,0.88scl)  84(376pts,0.83scl)  86(279pts,0.90scl)  87(208pts,0.97scl)  73(102pts,1.19scl)  88(129pts,1.05scl)  72(83pts,1.26scl)  71(88pts,1.27scl)  89(89pts,1.08scl)  90(77pts,1.20scl)  70(70pts,1.27scl)  69(42pts,1.29scl)  91(11pts,1.22scl)  68(10pts,1.25scl)  92(9pts,1.26scl)  93(4pts,1.24scl) (1672 shared points)
+22:15:49 [Scene   ] Reference image  51 sees 36 views:  49(2309pts,1.07scl)  48(2566pts,1.09scl)  53(2907pts,0.85scl)  50(2990pts,1.03scl)  52(3288pts,0.94scl)  54(2211pts,0.82scl)  47(1282pts,1.09scl)  46(1425pts,1.11scl)  55(1914pts,0.92scl)  56(998pts,0.81scl)  57(1937pts,0.89scl)  45(957pts,1.09scl)  58(1769pts,0.94scl)  62(1201pts,0.98scl)  63(1127pts,0.97scl)  60(1221pts,0.96scl)  64(1043pts,0.97scl)  44(550pts,1.11scl)  65(894pts,0.93scl)  59(1074pts,0.80scl)  66(617pts,0.95scl)  67(483pts,0.97scl)  43(242pts,1.10scl)  68(320pts,0.95scl)  61(446pts,0.73scl)  42(82pts,1.11scl)  69(135pts,0.91scl)  70(30pts,0.76scl)  41(13pts,1.05scl)  40(11pts,1.01scl)  71(14pts,0.77scl)  39(6pts,0.99scl)  37(5pts,1.11scl)  38(5pts,0.98scl)  35(4pts,1.32scl)  33(4pts,1.42scl) (4204 shared points)
+22:15:49 [Scene   ] Reference image  41 sees 33 views:  39(2229pts,1.02scl)  43(2313pts,1.00scl)  44(2031pts,1.01scl)  40(2542pts,1.00scl)  38(1706pts,1.03scl)  42(2633pts,1.01scl)  45(1683pts,1.01scl)  46(1367pts,1.02scl)  37(1600pts,1.05scl)  35(1114pts,1.17scl)  47(663pts,1.01scl)  33(789pts,1.25scl)  48(638pts,1.02scl)  36(617pts,0.90scl)  29(459pts,1.23scl)  27(438pts,1.29scl)  25(367pts,1.41scl)  31(305pts,1.33scl)  49(225pts,1.00scl)  34(266pts,0.92scl)  28(248pts,1.00scl)  32(216pts,0.95scl)  23(183pts,1.41scl)  22(155pts,1.60scl)  50(89pts,0.97scl)  24(132pts,1.11scl)  21(90pts,1.67scl)  30(85pts,0.90scl)  26(99pts,0.98scl)  20(28pts,1.31scl)  19(19pts,1.19scl)  51(13pts,0.96scl)  52(3pts,0.79scl) (3291 shared points)
+22:15:49 [Scene   ] Reference image  81 sees 22 views:  80(2181pts,1.04scl)  85(1766pts,1.00scl)  84(1876pts,0.97scl)  79(1729pts,1.06scl)  83(1223pts,1.08scl)  86(1328pts,0.98scl)  78(1162pts,1.13scl)  82(1479pts,1.02scl)  87(900pts,0.98scl)  77(550pts,1.18scl)  88(660pts,0.98scl)  89(538pts,0.97scl)  90(375pts,1.08scl)  76(275pts,1.26scl)  91(280pts,1.03scl)  92(174pts,1.05scl)  75(112pts,1.33scl)  93(94pts,1.04scl)  74(56pts,1.38scl)  94(34pts,1.05scl)  95(8pts,1.07scl)  73(5pts,1.56scl) (3141 shared points)
+22:15:49 [Scene   ] Reference image  35 sees 35 views:  38(1260pts,0.92scl)  33(1540pts,1.05scl)  31(602pts,1.11scl)  39(1244pts,0.88scl)  37(1404pts,0.90scl)  29(593pts,1.09scl)  36(894pts,0.89scl)  40(1198pts,0.86scl)  32(545pts,0.97scl)  27(548pts,1.11scl)  28(380pts,0.97scl)  30(255pts,1.00scl)  41(1123pts,0.86scl)  42(1089pts,0.87scl)  25(457pts,1.17scl)  34(741pts,0.96scl)  43(965pts,0.86scl)  44(866pts,0.87scl)  45(759pts,0.86scl)  46(647pts,0.86scl)  22(298pts,1.26scl)  23(280pts,1.20scl)  48(334pts,0.85scl)  47(376pts,0.83scl)  24(206pts,1.05scl)  21(212pts,1.26scl)  26(158pts,1.00scl)  49(134pts,0.81scl)  20(89pts,1.19scl)  50(52pts,0.78scl)  19(29pts,1.18scl)  17(18pts,1.00scl)  18(15pts,1.00scl)  16(7pts,0.99scl)  51(4pts,0.76scl) (2560 shared points)
+22:15:49 [Scene   ] Reference image  14 sees 45 views:  12(3701pts,1.11scl)  11(3071pts,1.14scl)  10(2564pts,1.15scl)  16(3014pts,0.91scl)  15(3967pts,0.96scl)   8(2161pts,1.19scl)  13(4399pts,1.05scl)  18(2038pts,0.92scl)   7(1831pts,1.20scl)  17(1733pts,0.95scl)   9(860pts,1.23scl)  19(1346pts,0.98scl)  20(1186pts,1.04scl)  21(1087pts,1.09scl)  22(916pts,1.17scl)  24(740pts,1.25scl)   6(570pts,1.27scl)  26(553pts,1.30scl)   0(412pts,1.27scl)   1(340pts,1.21scl)  23(386pts,1.10scl)   4(335pts,1.28scl)  99(284pts,1.24scl)  28(201pts,1.28scl)   2(213pts,1.18scl)  98(168pts,1.23scl)   3(140pts,1.16scl)  25(135pts,1.04scl)   5(125pts,1.19scl)  30(71pts,1.34scl)  97(55pts,1.30scl)  32(48pts,1.37scl)  38(31pts,1.53scl)  34(26pts,1.55scl)  27(40pts,0.88scl)  29(33pts,0.88scl)  95(19pts,1.12scl)  94(18pts,1.14scl)  36(14pts,1.56scl)  96(12pts,1.02scl)  93(11pts,1.12scl)  39(6pts,1.33scl)  92(5pts,1.03scl)  37(4pts,0.92scl)  40(3pts,1.47scl) (5769 shared points)
+22:15:49 [Scene   ] Reference image  44 sees 50 views:  46(3562pts,1.00scl)  42(3405pts,0.99scl)  43(4132pts,0.99scl)  45(4330pts,0.99scl)  41(2038pts,0.99scl)  47(1862pts,0.99scl)  48(1785pts,0.99scl)  40(1817pts,0.98scl)  39(1632pts,1.00scl)  49(997pts,0.97scl)  38(1738pts,1.02scl)  37(1717pts,1.04scl)  50(752pts,0.93scl)  35(868pts,1.17scl)  33(636pts,1.26scl)  51(554pts,0.90scl)  36(586pts,0.88scl)  27(352pts,1.31scl)  52(499pts,0.84scl)  29(353pts,1.25scl)  25(344pts,1.38scl)  31(242pts,1.36scl)  55(357pts,0.88scl)  53(408pts,0.76scl)  23(180pts,1.33scl)  58(287pts,0.94scl)  34(214pts,0.91scl)  60(199pts,1.00scl)  28(181pts,0.99scl)  24(145pts,1.08scl)  22(132pts,1.56scl)  57(223pts,0.83scl)  62(149pts,1.06scl)  32(167pts,0.95scl)  54(277pts,0.73scl)  63(124pts,1.03scl)  64(102pts,1.04scl)  21(77pts,1.76scl)  26(97pts,0.96scl)  65(76pts,1.01scl)  30(55pts,0.91scl)  66(36pts,1.00scl)  56(51pts,0.68scl)  59(65pts,0.71scl)  20(21pts,1.66scl)  67(22pts,0.96scl)  19(15pts,1.24scl)  68(14pts,0.88scl)  61(20pts,0.64scl)  17(3pts,1.12scl) (5620 shared points)
+22:15:49 [Scene   ] Reference image   2 sees 27 views:   0(1059pts,0.99scl)   1(1254pts,0.99scl)   5(682pts,1.04scl)   3(972pts,1.02scl)   4(295pts,1.01scl)   6(261pts,0.98scl)   8(478pts,0.99scl)   7(490pts,0.99scl)  10(435pts,0.98scl)  99(571pts,0.88scl)  11(380pts,0.96scl)   9(341pts,0.99scl)  12(331pts,0.94scl)  98(408pts,0.89scl)  13(265pts,0.90scl)  14(210pts,0.86scl)  95(164pts,0.88scl)  15(128pts,0.86scl)  94(128pts,0.88scl)  96(112pts,0.84scl)  97(107pts,0.92scl)  93(76pts,0.86scl)  92(31pts,0.82scl)  16(33pts,0.83scl)  18(6pts,0.85scl)  91(6pts,0.70scl)  90(3pts,0.70scl) (1558 shared points)
+22:15:49 [Scene   ] Reference image  55 sees 28 views:  57(3592pts,1.03scl)  58(3401pts,1.07scl)  53(2881pts,0.97scl)  54(2935pts,0.95scl)  52(2462pts,1.05scl)  59(2326pts,1.01scl)  51(1909pts,1.11scl)  60(2219pts,1.13scl)  62(1837pts,1.21scl)  50(1672pts,1.12scl)  48(1662pts,1.20scl)  63(1505pts,1.23scl)  49(1358pts,1.15scl)  64(1269pts,1.24scl)  56(1930pts,1.01scl)  65(982pts,1.23scl)  46(908pts,1.17scl)  47(735pts,1.15scl)  45(617pts,1.14scl)  61(995pts,0.97scl)  66(505pts,1.31scl)  67(338pts,1.38scl)  44(353pts,1.15scl)  68(156pts,1.38scl)  43(147pts,1.12scl)  69(67pts,1.33scl)  42(43pts,1.13scl)  70(8pts,1.43scl) (4998 shared points)
+22:15:49 [Scene   ] Reference image  32 sees 43 views:  34(1122pts,1.00scl)  28(724pts,0.98scl)  36(668pts,0.96scl)  30(675pts,0.97scl)  29(450pts,1.00scl)  35(547pts,1.04scl)  37(351pts,1.00scl)  31(401pts,1.02scl)  38(359pts,1.04scl)  27(314pts,0.98scl)  26(294pts,0.92scl)  33(691pts,1.03scl)  24(316pts,1.06scl)  25(217pts,1.04scl)  39(261pts,1.04scl)  40(246pts,1.05scl)  41(214pts,1.05scl)  42(241pts,1.04scl)  21(245pts,0.94scl)  22(216pts,1.00scl)  43(201pts,1.04scl)  23(164pts,1.02scl)  20(191pts,0.91scl)  44(161pts,1.05scl)  45(131pts,1.06scl)  19(129pts,0.80scl)  46(111pts,1.06scl)  17(97pts,0.74scl)  18(91pts,0.73scl)  16(75pts,0.71scl)  48(43pts,1.08scl)  47(36pts,1.06scl)  14(49pts,0.77scl)  15(49pts,0.72scl)  13(43pts,0.77scl)  12(29pts,0.81scl)  11(23pts,0.81scl)  10(17pts,0.79scl)  49(10pts,1.06scl)   8(11pts,0.79scl)   7(8pts,0.79scl)  50(3pts,1.03scl)   9(4pts,0.71scl) (1825 shared points)
+22:15:49 [Scene   ] Reference image  62 sees 29 views:  64(3249pts,1.03scl)  63(3689pts,1.03scl)  59(3087pts,0.94scl)  60(2974pts,0.95scl)  58(3627pts,0.94scl)  65(2659pts,1.01scl)  61(2077pts,0.97scl)  57(3350pts,0.96scl)  66(1469pts,1.08scl)  54(2366pts,0.94scl)  56(2337pts,1.03scl)  53(1961pts,0.96scl)  52(1534pts,1.03scl)  67(1019pts,1.13scl)  51(1196pts,1.06scl)  55(1840pts,0.83scl)  48(953pts,1.15scl)  50(971pts,1.08scl)  49(780pts,1.10scl)  68(574pts,1.13scl)  46(436pts,1.10scl)  47(403pts,1.04scl)  45(264pts,1.03scl)  69(211pts,1.10scl)  44(149pts,0.99scl)  70(45pts,1.13scl)  43(55pts,0.94scl)  42(17pts,0.95scl)  71(11pts,1.17scl) (5099 shared points)
+22:15:49 [Scene   ] Reference image  21 sees 43 views:  20(3400pts,0.97scl)  19(2900pts,0.91scl)  22(3178pts,1.06scl)  23(1527pts,1.01scl)  24(1764pts,1.10scl)  17(2304pts,0.89scl)  26(1393pts,1.13scl)  25(770pts,0.96scl)  18(2104pts,0.86scl)  16(1808pts,0.84scl)  15(1421pts,0.88scl)  14(1091pts,0.92scl)  13(810pts,0.97scl)  28(546pts,1.11scl)  12(571pts,1.02scl)  27(382pts,0.86scl)  11(409pts,1.05scl)  30(289pts,1.13scl)  10(303pts,1.07scl)  29(329pts,0.87scl)  32(246pts,1.11scl)   8(216pts,1.11scl)  34(176pts,1.09scl)  38(191pts,0.97scl)   7(142pts,1.13scl)  33(251pts,0.83scl)  35(215pts,0.81scl)  31(185pts,0.84scl)  37(181pts,0.74scl)  36(111pts,1.01scl)  39(98pts,0.73scl)  42(98pts,0.65scl)  40(95pts,0.68scl)  41(90pts,0.66scl)  43(80pts,0.61scl)  44(77pts,0.59scl)   9(23pts,1.17scl)  45(71pts,0.58scl)  46(66pts,0.57scl)  48(46pts,0.56scl)  47(51pts,0.52scl)  49(29pts,0.51scl)  50(11pts,0.50scl) (4474 shared points)
+22:15:49 [Scene   ] Reference image  96 sees 24 views:  95(509pts,1.03scl)  94(427pts,1.03scl)  97(327pts,0.94scl)  98(282pts,0.96scl)  99(415pts,0.98scl)  93(265pts,1.00scl)   0(164pts,1.21scl)   1(133pts,1.20scl)  92(120pts,0.98scl)   2(114pts,1.20scl)   3(86pts,1.24scl)   5(72pts,1.29scl)  91(46pts,0.94scl)   8(42pts,1.16scl)  10(36pts,1.16scl)   7(32pts,1.11scl)  11(27pts,1.12scl)  12(20pts,1.10scl)  13(19pts,1.06scl)   4(21pts,1.42scl)  90(17pts,0.94scl)  14(12pts,1.00scl)  15(7pts,1.06scl)   9(3pts,1.02scl) (831 shared points)
+22:15:49 [Scene   ] Reference image  61 sees 28 views:  58(2305pts,1.03scl)  59(2598pts,1.02scl)  63(2275pts,1.04scl)  62(2089pts,1.04scl)  57(2384pts,1.07scl)  64(2070pts,1.02scl)  56(2554pts,1.13scl)  60(2332pts,1.03scl)  65(1821pts,0.99scl)  54(1462pts,1.10scl)  53(1061pts,1.18scl)  66(1147pts,1.02scl)  52(677pts,1.31scl)  67(873pts,1.04scl)  55(1002pts,1.03scl)  51(451pts,1.37scl)  68(553pts,1.01scl)  48(377pts,1.51scl)  50(323pts,1.44scl)  49(250pts,1.50scl)  69(268pts,0.95scl)  46(136pts,1.56scl)  47(100pts,1.52scl)  70(102pts,0.88scl)  45(57pts,1.54scl)  71(34pts,0.90scl)  44(20pts,1.57scl)  43(5pts,1.59scl) (3869 shared points)
+22:15:49 [Scene   ] Reference image  15 sees 46 views:  13(3305pts,1.09scl)  18(2860pts,0.97scl)  12(2521pts,1.15scl)  14(3974pts,1.04scl)  11(2068pts,1.18scl)  16(3765pts,0.95scl)  17(2404pts,1.00scl)  10(1788pts,1.19scl)   8(1470pts,1.23scl)   7(1250pts,1.24scl)  19(1865pts,1.03scl)  20(1618pts,1.09scl)  21(1428pts,1.14scl)  22(1208pts,1.22scl)   9(596pts,1.26scl)  24(912pts,1.30scl)  26(709pts,1.34scl)  23(548pts,1.15scl)   6(384pts,1.30scl)  28(242pts,1.34scl)   0(268pts,1.30scl)   4(241pts,1.31scl)   1(214pts,1.22scl)  25(210pts,1.09scl)  99(186pts,1.27scl)   2(131pts,1.18scl)  98(105pts,1.25scl)  30(84pts,1.41scl)   5(81pts,1.21scl)   3(87pts,1.17scl)  32(49pts,1.45scl)  27(59pts,0.94scl)  97(42pts,1.32scl)  38(36pts,1.60scl)  29(47pts,0.94scl)  34(26pts,1.56scl)  36(15pts,1.58scl)  94(15pts,1.17scl)  95(14pts,1.16scl)  39(8pts,1.48scl)  37(6pts,0.98scl)  93(6pts,1.13scl)  96(7pts,0.98scl)  42(5pts,1.14scl)  92(3pts,1.10scl)  40(3pts,1.56scl) (5354 shared points)
+22:15:49 [Scene   ] Reference image  49 sees 49 views:  47(2106pts,1.02scl)  51(2314pts,0.93scl)  46(2082pts,1.03scl)  48(3088pts,1.02scl)  50(2920pts,0.96scl)  52(2145pts,0.87scl)  45(1495pts,1.03scl)  53(1793pts,0.79scl)  44(991pts,1.03scl)  54(1317pts,0.76scl)  55(1363pts,0.88scl)  58(1188pts,0.91scl)  43(576pts,1.02scl)  57(1167pts,0.83scl)  60(830pts,0.94scl)  62(781pts,0.96scl)  63(710pts,0.94scl)  64(651pts,0.93scl)  42(361pts,1.02scl)  56(558pts,0.74scl)  65(571pts,0.90scl)  66(432pts,0.92scl)  59(568pts,0.73scl)  67(366pts,0.94scl)  41(225pts,1.00scl)  68(258pts,0.91scl)  40(188pts,1.00scl)  39(173pts,1.03scl)  38(140pts,1.05scl)  61(249pts,0.67scl)  37(140pts,1.08scl)  35(135pts,1.25scl)  33(125pts,1.34scl)  69(107pts,0.88scl)  27(67pts,1.48scl)  29(64pts,1.42scl)  31(59pts,1.46scl)  25(57pts,1.61scl)  36(34pts,0.87scl)  21(29pts,1.97scl)  23(15pts,1.60scl)  22(23pts,1.90scl)  70(14pts,0.79scl)  34(13pts,0.90scl)  20(9pts,1.91scl)  32(10pts,0.94scl)  71(5pts,0.75scl)  28(4pts,0.96scl)  26(3pts,0.90scl) (3918 shared points)
+22:15:49 [Scene   ] Reference image  94 sees 35 views:  93(714pts,0.98scl)  95(701pts,1.00scl)  96(429pts,0.97scl)  92(408pts,0.96scl)  97(223pts,0.95scl)  91(195pts,0.92scl)  99(339pts,0.95scl)  98(216pts,0.91scl)   0(149pts,1.16scl)   1(145pts,1.15scl)  90(112pts,0.90scl)   2(130pts,1.17scl)   3(89pts,1.22scl)   5(77pts,1.26scl)  88(80pts,0.80scl)  89(77pts,0.82scl)  87(73pts,0.81scl)  10(41pts,1.07scl)  84(46pts,0.93scl)   8(36pts,1.03scl)  86(51pts,0.79scl)  85(46pts,0.85scl)  11(31pts,1.01scl)  12(29pts,0.99scl)  81(35pts,0.95scl)   7(25pts,0.95scl)  13(21pts,0.95scl)   4(20pts,1.36scl)  80(25pts,1.07scl)  14(18pts,0.92scl)  15(15pts,0.90scl)  79(7pts,1.13scl)   9(8pts,0.89scl)  78(3pts,1.02scl)  16(4pts,0.66scl) (1038 shared points)
+22:15:49 [Scene   ] Reference image  17 sees 38 views:  16(3165pts,0.95scl)  20(2674pts,1.08scl)  19(3212pts,1.03scl)  18(3867pts,0.97scl)  15(2394pts,1.00scl)  21(2301pts,1.13scl)  14(1728pts,1.05scl)  13(1245pts,1.10scl)  22(1871pts,1.20scl)  12(870pts,1.17scl)  24(1317pts,1.26scl)  26(1041pts,1.29scl)  11(666pts,1.21scl)  23(962pts,1.14scl)  10(496pts,1.23scl)   8(350pts,1.28scl)  28(363pts,1.29scl)   7(248pts,1.30scl)  25(448pts,1.08scl)  30(147pts,1.37scl)  32(97pts,1.40scl)  27(153pts,0.95scl)   9(56pts,1.32scl)  29(115pts,0.96scl)  38(64pts,1.42scl)  34(58pts,1.43scl)  36(38pts,1.37scl)  37(30pts,0.96scl)  39(19pts,1.34scl)   6(13pts,1.34scl)  35(18pts,1.00scl)  40(13pts,1.25scl)  33(12pts,0.92scl)  45(4pts,0.96scl)  31(5pts,0.78scl)   4(3pts,1.30scl)  44(3pts,0.92scl)   0(3pts,1.35scl) (4587 shared points)
+22:15:49 [Scene   ] Reference image  95 sees 35 views:  94(698pts,1.00scl)  93(474pts,0.98scl)  96(506pts,0.97scl)  97(318pts,0.91scl)  98(284pts,0.92scl)  92(219pts,0.97scl)  99(430pts,0.95scl)   0(188pts,1.15scl)   1(182pts,1.14scl)   2(167pts,1.16scl)   3(125pts,1.18scl)   5(108pts,1.23scl)  91(83pts,0.93scl)  10(56pts,1.08scl)   8(53pts,1.06scl)  90(42pts,0.91scl)   7(41pts,0.99scl)  11(35pts,1.02scl)  12(34pts,1.00scl)   4(27pts,1.30scl)  13(26pts,0.96scl)  14(19pts,0.93scl)  15(14pts,0.91scl)  89(18pts,0.81scl)  88(18pts,0.78scl)   9(13pts,0.95scl)  87(17pts,0.78scl)  84(10pts,0.87scl)  86(11pts,0.75scl)  85(10pts,0.81scl)  80(8pts,1.00scl)  81(8pts,0.94scl)  79(3pts,1.00scl)   6(3pts,0.79scl)  16(3pts,0.62scl) (983 shared points)
+22:15:49 [Scene   ] Reference image  97 sees 27 views:  99(422pts,0.99scl)  95(317pts,1.11scl)  96(329pts,1.07scl)  98(304pts,0.97scl)  94(223pts,1.06scl)  93(149pts,1.04scl)   0(152pts,1.08scl)   1(144pts,1.09scl)   2(111pts,1.11scl)  92(72pts,1.01scl)  10(92pts,0.93scl)   7(98pts,0.95scl)   8(93pts,0.95scl)  11(86pts,0.88scl)   9(76pts,0.95scl)  12(78pts,0.86scl)   3(65pts,1.14scl)  13(64pts,0.83scl)   5(47pts,1.21scl)  14(55pts,0.78scl)  15(42pts,0.77scl)   6(37pts,0.94scl)   4(29pts,1.07scl)  91(20pts,0.95scl)  16(23pts,0.72scl)  90(8pts,0.94scl)  18(4pts,0.73scl) (730 shared points)
+22:15:49 [Scene   ] Reference image  42 sees 49 views:  44(3399pts,1.01scl)  40(2386pts,0.99scl)  45(2605pts,1.00scl)  43(3957pts,0.99scl)  39(2070pts,1.01scl)  46(2041pts,1.01scl)  41(2637pts,0.99scl)  38(2321pts,1.03scl)  37(2206pts,1.04scl)  47(904pts,1.00scl)  48(905pts,1.01scl)  35(1085pts,1.16scl)  33(764pts,1.24scl)  36(848pts,0.90scl)  49(359pts,0.98scl)  29(450pts,1.23scl)  27(418pts,1.29scl)  25(420pts,1.36scl)  31(310pts,1.32scl)  34(313pts,0.93scl)  50(186pts,0.94scl)  23(204pts,1.34scl)  28(269pts,1.00scl)  32(245pts,0.96scl)  22(165pts,1.54scl)  24(206pts,1.10scl)  26(153pts,0.99scl)  21(97pts,1.66scl)  51(83pts,0.90scl)  30(104pts,0.93scl)  52(64pts,0.83scl)  20(32pts,1.46scl)  55(43pts,0.89scl)  53(55pts,0.75scl)  58(30pts,0.98scl)  54(34pts,0.73scl)  19(18pts,1.26scl)  57(22pts,0.85scl)  62(17pts,1.10scl)  60(18pts,1.03scl)  63(13pts,1.04scl)  64(9pts,1.05scl)  65(8pts,1.02scl)  66(5pts,1.01scl)  67(4pts,1.13scl)  15(5pts,0.88scl)  16(5pts,0.85scl)  18(3pts,0.87scl)  59(4pts,0.70scl) (4818 shared points)
+22:15:49 [Scene   ] Reference image  60 sees 29 views:  58(3461pts,0.97scl)  63(2767pts,1.08scl)  62(2969pts,1.05scl)  57(3261pts,0.98scl)  59(2848pts,0.97scl)  64(2457pts,1.07scl)  65(2034pts,1.05scl)  56(2466pts,1.05scl)  54(2261pts,0.94scl)  53(1939pts,0.98scl)  61(2322pts,0.98scl)  55(2231pts,0.89scl)  52(1538pts,1.04scl)  66(1188pts,1.11scl)  51(1218pts,1.08scl)  48(1023pts,1.18scl)  50(1014pts,1.09scl)  67(848pts,1.16scl)  49(833pts,1.11scl)  68(465pts,1.14scl)  46(537pts,1.12scl)  47(469pts,1.08scl)  45(338pts,1.05scl)  69(179pts,1.12scl)  44(198pts,1.03scl)  43(73pts,1.00scl)  70(39pts,1.12scl)  42(18pts,1.00scl)  71(10pts,1.14scl) (4898 shared points)
+22:15:49 [Scene   ] Reference image  99 sees 27 views:  98(876pts,1.02scl)  97(420pts,1.02scl)   0(889pts,1.11scl)  96(417pts,1.02scl)   1(769pts,1.11scl)   2(578pts,1.15scl)  95(433pts,1.06scl)   8(533pts,1.01scl)  10(513pts,0.99scl)   7(542pts,1.00scl)   3(398pts,1.18scl)  11(431pts,0.96scl)  94(339pts,1.06scl)  12(390pts,0.92scl)  13(327pts,0.88scl)   5(252pts,1.24scl)   9(361pts,0.96scl)  14(284pts,0.83scl)  93(213pts,1.03scl)   6(265pts,0.94scl)   4(188pts,1.05scl)  15(185pts,0.81scl)  92(83pts,0.99scl)  16(80pts,0.72scl)  91(25pts,0.91scl)  18(17pts,0.70scl)  90(9pts,0.91scl) (1584 shared points)
+22:15:49 [Scene   ] Reference image  11 sees 44 views:   7(3017pts,1.06scl)  13(3658pts,0.93scl)   8(3626pts,1.05scl)  14(3075pts,0.88scl)  12(4379pts,0.97scl)  15(2071pts,0.85scl)   9(1289pts,1.08scl)  10(4104pts,1.01scl)  16(1340pts,0.80scl)   6(827pts,1.11scl)  18(804pts,0.81scl)   4(518pts,1.10scl)   0(648pts,1.11scl)  17(667pts,0.83scl)   1(551pts,1.06scl)  99(429pts,1.07scl)  19(498pts,0.85scl)   2(383pts,1.05scl)  21(411pts,0.95scl)  20(437pts,0.91scl)  22(373pts,1.03scl)   5(245pts,1.05scl)   3(278pts,1.03scl)  98(276pts,1.06scl)  24(318pts,1.11scl)  26(255pts,1.16scl)  28(118pts,1.16scl)  97(85pts,1.15scl)  23(116pts,0.96scl)  30(39pts,1.23scl)  32(23pts,1.28scl)  95(35pts,1.00scl)  94(31pts,1.03scl)  25(44pts,0.91scl)  38(23pts,1.42scl)  96(27pts,0.91scl)  93(20pts,0.99scl)  34(14pts,1.44scl)  36(9pts,1.62scl)  27(12pts,0.77scl)  29(11pts,0.78scl)  92(6pts,0.91scl)  39(4pts,1.24scl)  40(3pts,1.29scl) (5448 shared points)
+22:15:49 [Scene   ] Reference image  37 sees 37 views:  38(2827pts,1.01scl)  39(1775pts,0.99scl)  40(1698pts,0.96scl)  33(947pts,1.17scl)  35(1392pts,1.11scl)  41(1596pts,0.96scl)  42(2200pts,0.97scl)  43(1955pts,0.96scl)  32(358pts,1.00scl)  34(540pts,0.98scl)  44(1704pts,0.97scl)  31(304pts,1.24scl)  29(502pts,1.20scl)  36(1366pts,0.95scl)  45(1406pts,0.97scl)  27(501pts,1.23scl)  46(1107pts,0.97scl)  25(639pts,1.26scl)  28(365pts,1.05scl)  23(419pts,1.25scl)  48(499pts,0.97scl)  22(347pts,1.37scl)  24(427pts,1.12scl)  47(449pts,0.95scl)  30(125pts,1.04scl)  26(339pts,1.06scl)  21(180pts,1.41scl)  49(137pts,0.94scl)  20(60pts,1.30scl)  50(55pts,0.92scl)  19(41pts,1.25scl)  17(30pts,1.06scl)  18(24pts,1.01scl)  16(17pts,1.01scl)  15(6pts,1.02scl)  51(5pts,0.92scl)  14(4pts,1.09scl) (3704 shared points)
+22:15:49 [Scene   ] Reference image  83 sees 23 views:  82(1541pts,0.95scl)  81(1232pts,0.94scl)  80(1173pts,0.94scl)  85(982pts,0.98scl)  86(645pts,1.01scl)  79(1140pts,0.96scl)  78(863pts,1.03scl)  84(947pts,0.95scl)  87(232pts,1.14scl)  77(480pts,1.10scl)  76(270pts,1.13scl)  88(85pts,1.37scl)  75(158pts,1.04scl)  74(128pts,1.00scl)  89(43pts,1.46scl)  90(56pts,1.56scl)  73(35pts,1.04scl)  72(33pts,1.02scl)  71(14pts,1.05scl)  91(8pts,1.66scl)  70(13pts,1.02scl)  69(3pts,1.05scl)  92(3pts,1.68scl) (2025 shared points)
+22:15:49 [Scene   ] Reference image  48 sees 52 views:  46(3398pts,1.01scl)  50(2876pts,0.95scl)  45(2520pts,1.00scl)  51(2567pts,0.92scl)  47(2835pts,1.00scl)  49(3080pts,0.98scl)  52(2668pts,0.86scl)  44(1784pts,1.01scl)  53(2384pts,0.78scl)  43(1219pts,0.99scl)  54(1722pts,0.74scl)  42(912pts,0.99scl)  55(1667pts,0.85scl)  58(1456pts,0.86scl)  57(1533pts,0.81scl)  60(1030pts,0.88scl)  62(969pts,0.91scl)  63(865pts,0.90scl)  41(641pts,0.98scl)  64(794pts,0.89scl)  56(834pts,0.73scl)  65(714pts,0.85scl)  40(574pts,0.98scl)  39(530pts,1.00scl)  37(505pts,1.04scl)  38(491pts,1.02scl)  66(523pts,0.88scl)  59(796pts,0.73scl)  67(439pts,0.90scl)  35(337pts,1.19scl)  33(270pts,1.28scl)  68(326pts,0.88scl)  61(374pts,0.67scl)  27(134pts,1.39scl)  29(130pts,1.33scl)  25(126pts,1.48scl)  69(141pts,0.85scl)  36(158pts,0.86scl)  31(100pts,1.42scl)  23(58pts,1.45scl)  22(53pts,1.68scl)  21(46pts,1.84scl)  34(57pts,0.89scl)  32(45pts,0.93scl)  28(32pts,0.97scl)  24(24pts,1.07scl)  70(18pts,0.79scl)  26(13pts,0.95scl)  20(11pts,1.82scl)  19(6pts,1.28scl)  71(7pts,0.74scl)  30(3pts,0.87scl) (5698 shared points)
+22:15:49 [Scene   ] Reference image  22 sees 43 views:  20(2659pts,0.91scl)  24(2134pts,1.01scl)  21(3191pts,0.95scl)  23(2031pts,0.96scl)  19(2347pts,0.86scl)  26(1572pts,1.04scl)  25(993pts,0.91scl)  17(1890pts,0.83scl)  27(483pts,0.84scl)  18(1706pts,0.81scl)  28(647pts,1.01scl)  16(1465pts,0.79scl)  15(1211pts,0.82scl)  14(923pts,0.86scl)  29(371pts,0.84scl)  13(730pts,0.90scl)  12(525pts,0.95scl)  11(372pts,0.98scl)  30(255pts,1.06scl)  10(283pts,0.99scl)  38(328pts,0.88scl)  32(216pts,1.05scl)  34(198pts,0.99scl)   8(199pts,1.03scl)  33(286pts,0.82scl)  37(351pts,0.75scl)  31(183pts,0.83scl)  35(300pts,0.81scl)  36(233pts,0.90scl)   7(135pts,1.05scl)  39(191pts,0.72scl)  42(168pts,0.68scl)  40(174pts,0.68scl)  43(142pts,0.67scl)  41(157pts,0.65scl)  44(131pts,0.67scl)  45(109pts,0.65scl)  46(89pts,0.64scl)   9(21pts,1.08scl)  48(53pts,0.62scl)  47(59pts,0.59scl)  49(23pts,0.53scl)  50(14pts,0.52scl) (4288 shared points)
+22:15:49 [Scene   ] Reference image  38 sees 43 views:  40(1919pts,0.97scl)  37(2833pts,0.99scl)  39(2017pts,0.99scl)  35(1252pts,1.10scl)  41(1710pts,0.97scl)  42(2319pts,0.97scl)  36(1347pts,0.91scl)  33(840pts,1.16scl)  43(2028pts,0.97scl)  34(526pts,0.94scl)  44(1727pts,0.98scl)  45(1387pts,0.98scl)  32(369pts,0.96scl)  46(1079pts,0.98scl)  25(699pts,1.18scl)  31(294pts,1.20scl)  29(533pts,1.15scl)  27(519pts,1.18scl)  28(454pts,0.97scl)  48(480pts,0.99scl)  23(467pts,1.16scl)  24(528pts,1.01scl)  47(431pts,0.97scl)  26(455pts,0.96scl)  22(326pts,1.23scl)  30(193pts,0.94scl)  21(189pts,1.19scl)  49(136pts,0.96scl)  20(93pts,0.92scl)  19(91pts,0.87scl)  50(52pts,0.94scl)  17(65pts,0.74scl)  18(58pts,0.69scl)  16(51pts,0.66scl)  15(36pts,0.64scl)  14(33pts,0.67scl)  12(28pts,0.73scl)  13(25pts,0.70scl)  11(24pts,0.72scl)  10(21pts,0.73scl)   8(16pts,0.75scl)   7(14pts,0.76scl)  51(5pts,1.03scl) (3956 shared points)
+22:15:49 [Scene   ] Reference image  57 sees 29 views:  54(4203pts,0.95scl)  58(4784pts,1.00scl)  59(4011pts,0.96scl)  55(3595pts,0.97scl)  56(3321pts,1.02scl)  60(3251pts,1.03scl)  53(3477pts,0.99scl)  61(2374pts,0.93scl)  52(2586pts,1.09scl)  62(3346pts,1.06scl)  63(3081pts,1.07scl)  64(2719pts,1.06scl)  51(1926pts,1.14scl)  65(2270pts,1.03scl)  50(1531pts,1.17scl)  48(1507pts,1.25scl)  66(1306pts,1.08scl)  49(1165pts,1.22scl)  67(942pts,1.12scl)  46(681pts,1.25scl)  47(559pts,1.22scl)  68(547pts,1.09scl)  45(432pts,1.21scl)  44(222pts,1.21scl)  69(221pts,1.02scl)  43(83pts,1.19scl)  70(64pts,1.00scl)  42(22pts,1.18scl)  71(22pts,0.99scl) (7111 shared points)
+22:15:49 [Scene   ] Reference image  26 sees 42 views:  24(2450pts,0.99scl)  23(1367pts,1.01scl)  28(1250pts,1.00scl)  22(1566pts,0.98scl)  25(1748pts,1.02scl)  29(749pts,0.97scl)  30(593pts,1.05scl)  27(986pts,0.96scl)  21(1400pts,0.89scl)  32(292pts,1.10scl)  31(267pts,1.00scl)  20(1309pts,0.86scl)  19(1279pts,0.83scl)  17(1046pts,0.79scl)  34(203pts,1.09scl)  18(979pts,0.76scl)  33(171pts,0.99scl)  38(453pts,1.05scl)  16(851pts,0.74scl)  15(708pts,0.76scl)  14(558pts,0.78scl)  36(271pts,0.98scl)  13(463pts,0.81scl)  37(341pts,0.94scl)  12(362pts,0.86scl)  11(256pts,0.87scl)  35(157pts,1.00scl)  39(182pts,1.04scl)  10(198pts,0.88scl)  40(143pts,1.05scl)  42(154pts,1.01scl)   8(149pts,0.90scl)  41(100pts,1.03scl)  43(123pts,1.02scl)  44(96pts,1.04scl)   7(95pts,0.92scl)  45(67pts,1.05scl)  46(54pts,1.05scl)   9(16pts,0.93scl)  48(13pts,1.06scl)  47(9pts,1.10scl)  49(3pts,1.12scl) (3624 shared points)
+22:15:49 [Scene   ] Reference image  47 sees 51 views:  45(2434pts,1.00scl)  49(2129pts,0.98scl)  44(1865pts,1.01scl)  46(3007pts,1.01scl)  48(2852pts,1.00scl)  50(1664pts,0.95scl)  43(1241pts,1.00scl)  51(1294pts,0.92scl)  52(1170pts,0.86scl)  42(907pts,1.00scl)  53(950pts,0.78scl)  41(664pts,0.99scl)  55(744pts,0.88scl)  40(577pts,0.99scl)  58(659pts,0.93scl)  39(544pts,1.01scl)  54(673pts,0.75scl)  57(570pts,0.83scl)  60(471pts,0.96scl)  38(440pts,1.03scl)  37(455pts,1.06scl)  62(407pts,1.01scl)  35(375pts,1.22scl)  63(357pts,0.98scl)  64(315pts,0.98scl)  33(310pts,1.31scl)  65(274pts,0.93scl)  66(210pts,0.93scl)  27(169pts,1.41scl)  67(184pts,0.93scl)  56(225pts,0.72scl)  25(159pts,1.53scl)  29(157pts,1.35scl)  68(162pts,0.91scl)  59(231pts,0.73scl)  31(130pts,1.43scl)  36(124pts,0.87scl)  23(58pts,1.48scl)  69(93pts,0.89scl)  22(58pts,1.77scl)  61(101pts,0.66scl)  21(50pts,1.94scl)  34(41pts,0.90scl)  32(36pts,0.94scl)  28(26pts,0.98scl)  24(15pts,1.07scl)  20(12pts,1.92scl)  26(9pts,0.91scl)  70(7pts,0.91scl)  19(3pts,1.42scl)  71(4pts,0.77scl) (3792 shared points)
+22:15:49 [Scene   ] Reference image  27 sees 41 views:  25(1157pts,1.06scl)  29(1478pts,0.99scl)  24(571pts,1.05scl)  31(581pts,0.99scl)  28(923pts,1.02scl)  30(479pts,1.08scl)  33(621pts,0.95scl)  23(471pts,1.12scl)  22(480pts,1.19scl)  26(991pts,1.04scl)  35(555pts,0.90scl)  32(317pts,1.05scl)  21(384pts,1.17scl)  37(505pts,0.83scl)  34(223pts,0.99scl)  38(527pts,0.88scl)  39(517pts,0.83scl)  40(471pts,0.82scl)  20(269pts,1.13scl)  41(448pts,0.80scl)  36(281pts,0.87scl)  42(420pts,0.80scl)  43(384pts,0.78scl)  44(354pts,0.79scl)  19(233pts,1.12scl)  45(306pts,0.77scl)  46(258pts,0.77scl)  17(153pts,1.05scl)  47(171pts,0.73scl)  48(133pts,0.74scl)  18(134pts,1.04scl)  16(100pts,1.04scl)  15(59pts,1.06scl)  49(66pts,0.69scl)  14(41pts,1.14scl)  13(27pts,1.19scl)  50(29pts,0.66scl)  12(21pts,1.26scl)  11(12pts,1.29scl)  10(7pts,1.31scl)   8(4pts,1.36scl) (2294 shared points)
+22:15:49 [Scene   ] Reference image  50 sees 46 views:  48(2875pts,1.06scl)  52(2696pts,0.91scl)  47(1647pts,1.06scl)  49(2907pts,1.04scl)  51(2993pts,0.97scl)  46(1784pts,1.07scl)  53(2356pts,0.82scl)  45(1222pts,1.06scl)  54(1760pts,0.79scl)  44(746pts,1.08scl)  55(1675pts,0.91scl)  58(1475pts,0.93scl)  57(1533pts,0.86scl)  56(759pts,0.77scl)  60(1009pts,0.96scl)  62(976pts,0.97scl)  63(889pts,0.96scl)  64(825pts,0.95scl)  65(715pts,0.91scl)  43(361pts,1.06scl)  66(533pts,0.94scl)  59(778pts,0.76scl)  67(422pts,0.96scl)  42(186pts,1.06scl)  68(295pts,0.93scl)  61(321pts,0.69scl)  41(89pts,1.03scl)  69(135pts,0.91scl)  40(76pts,1.03scl)  39(70pts,1.05scl)  35(53pts,1.29scl)  38(53pts,1.07scl)  37(56pts,1.10scl)  33(48pts,1.37scl)  27(29pts,1.53scl)  29(32pts,1.48scl)  31(28pts,1.50scl)  70(22pts,0.75scl)  25(16pts,1.63scl)  36(14pts,0.90scl)  22(14pts,1.93scl)  21(11pts,2.02scl)  23(7pts,1.67scl)  71(6pts,0.72scl)  32(3pts,0.97scl)  34(3pts,0.93scl) (4077 shared points)
+22:15:49 [Scene   ] Reference image  29 sees 41 views:  25(873pts,1.07scl)  27(1474pts,1.01scl)  33(752pts,0.96scl)  26(755pts,1.04scl)  31(803pts,1.00scl)  35(600pts,0.92scl)  32(442pts,1.02scl)  30(625pts,1.05scl)  24(418pts,1.05scl)  23(325pts,1.13scl)  28(1071pts,1.00scl)  34(302pts,0.96scl)  37(506pts,0.85scl)  22(366pts,1.19scl)  36(371pts,0.86scl)  38(538pts,0.89scl)  21(331pts,1.15scl)  39(533pts,0.86scl)  40(500pts,0.85scl)  41(463pts,0.84scl)  42(447pts,0.83scl)  43(391pts,0.81scl)  20(257pts,1.13scl)  44(350pts,0.82scl)  19(211pts,1.12scl)  45(298pts,0.81scl)  46(259pts,0.81scl)  48(130pts,0.77scl)  17(115pts,1.05scl)  47(159pts,0.76scl)  18(103pts,1.03scl)  16(79pts,1.03scl)  15(48pts,1.06scl)  49(64pts,0.72scl)  14(34pts,1.13scl)  13(22pts,1.17scl)  50(32pts,0.69scl)  12(17pts,1.24scl)  11(11pts,1.28scl)  10(8pts,1.29scl)   8(4pts,1.35scl) (2132 shared points)
+22:15:49 [Scene   ] Reference image  45 sees 52 views:  43(3299pts,0.99scl)  47(2426pts,1.00scl)  42(2610pts,1.00scl)  44(4329pts,1.01scl)  48(2517pts,1.00scl)  46(4380pts,1.01scl)  41(1688pts,0.99scl)  49(1500pts,0.97scl)  40(1509pts,0.99scl)  50(1227pts,0.94scl)  39(1357pts,1.01scl)  38(1401pts,1.03scl)  51(965pts,0.92scl)  37(1415pts,1.04scl)  52(886pts,0.85scl)  35(758pts,1.18scl)  33(564pts,1.27scl)  53(728pts,0.77scl)  55(622pts,0.88scl)  27(306pts,1.34scl)  58(485pts,0.93scl)  36(469pts,0.88scl)  25(280pts,1.41scl)  29(297pts,1.27scl)  60(337pts,0.98scl)  57(435pts,0.83scl)  54(507pts,0.74scl)  62(264pts,1.02scl)  31(205pts,1.39scl)  23(147pts,1.35scl)  63(215pts,1.00scl)  64(179pts,1.01scl)  34(176pts,0.91scl)  65(141pts,0.98scl)  28(141pts,0.99scl)  24(106pts,1.07scl)  22(109pts,1.61scl)  32(135pts,0.95scl)  66(87pts,0.96scl)  21(71pts,1.78scl)  59(148pts,0.72scl)  26(67pts,0.96scl)  56(123pts,0.70scl)  67(64pts,0.96scl)  68(41pts,0.88scl)  61(56pts,0.65scl)  30(30pts,0.89scl)  20(18pts,1.69scl)  19(18pts,1.18scl)  69(14pts,0.78scl)  70(5pts,0.78scl)  17(4pts,1.07scl) (5644 shared points)
+22:15:49 [Scene   ] Reference image  68 sees 34 views:  67(2086pts,1.01scl)  66(1849pts,0.97scl)  69(1427pts,1.01scl)  70(827pts,1.04scl)  65(1462pts,0.92scl)  64(1293pts,0.97scl)  63(1158pts,1.00scl)  71(409pts,1.07scl)  59(625pts,0.97scl)  61(559pts,1.05scl)  57(555pts,0.95scl)  56(513pts,1.10scl)  62(579pts,0.89scl)  53(413pts,1.01scl)  60(469pts,0.88scl)  54(425pts,0.95scl)  52(359pts,1.07scl)  58(466pts,0.85scl)  51(324pts,1.10scl)  48(327pts,1.17scl)  50(296pts,1.11scl)  49(257pts,1.14scl)  47(160pts,1.13scl)  72(165pts,1.04scl)  46(126pts,1.20scl)  55(156pts,0.73scl)  73(92pts,0.97scl)  74(72pts,0.96scl)  45(41pts,1.19scl)  44(14pts,1.20scl)  75(17pts,0.85scl)  76(12pts,0.82scl)  77(10pts,0.80scl)  43(4pts,0.94scl) (2751 shared points)
+22:15:49 [ScnDense] Selecting images for dense reconstruction completed: 100 images (104ms)
+22:15:49 [ScnDense] Reference image   0 paired with 5 views:   3(1.01scl)   2(0.99scl)   4(1.03scl)   6(1.04scl) 100(0.91scl) (1863 shared points)
+22:15:49 [ScnDense] Depth-map   1 roughly estimated from 1863 sparse points: 2560x1707 (26ms)
+22:15:49 [ScnDense] Reference image  18 paired with 5 views:  16(1.03scl)  17(0.98scl)  20(1.06scl)  18(1.03scl)  15(1.08scl) (4772 shared points)
+22:15:49 [ScnDense] Depth-map  19 roughly estimated from 4772 sparse points: 2560x1707 (44ms)

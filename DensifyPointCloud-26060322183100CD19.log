@@ -1,0 +1,20 @@
+22:18:31 [App     ] OpenMVS x64 v2.4.0
+22:18:31 [App     ] Build date: Jan 20 2026, 00:13:37
+22:18:31 [App     ] CPU: 12th Gen Intel(R) Core(TM) i7-1255U (12 cores)
+22:18:31 [App     ] RAM: 15.70GB Physical Memory 128.00TB Virtual Memory
+22:18:31 [App     ] OS: Windows 11+ x64
+22:18:31 [App     ] Disk: 188.18GB (475.71GB) space
+22:18:31 [App     ] SSE & AVX compatible CPU & OS detected
+22:18:31 [App     ] Command line: DensifyPointCloud scene.mvs
+22:18:31 [Scene   ] error: unable to open file 'scene.mvs'
+22:18:31 [App     ] MEMORYINFO: {
+22:18:31 [App     ] 	PageFaultCount 3191
+22:18:31 [App     ] 	PeakWorkingSetSize 12.05MB
+22:18:31 [App     ] 	WorkingSetSize 12.05MB
+22:18:31 [App     ] 	QuotaPeakPagedPoolUsage 108.42KB
+22:18:31 [App     ] 	QuotaPagedPoolUsage 108.41KB
+22:18:31 [App     ] 	QuotaPeakNonPagedPoolUsage 18.60KB
+22:18:31 [App     ] 	QuotaNonPagedPoolUsage 18.47KB
+22:18:31 [App     ] 	PagefileUsage 5.86MB
+22:18:31 [App     ] 	PeakPagefileUsage 5.86MB
+22:18:31 [App     ] } ENDINFO
